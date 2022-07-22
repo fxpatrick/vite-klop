@@ -1,5 +1,4 @@
 
-![](klearancelogo.svg)
 - [Apa itu Klearance?](#apa-itu-klearance)
 - [Apa itu Klearance One Portal?](#apa-itu-klearance-one-portal)
 - [Skema KLOP](#skema-klop)

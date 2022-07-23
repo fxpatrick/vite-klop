@@ -1,5 +1,4 @@
 ---
-title: Contact
 layout: home
 hero:
   name: Aplikasi pelaporan dokumen Bea Cukai
@@ -15,7 +14,7 @@ features:
     details: Dengan kemampuan komputer yang minimal Anda dapat mengikuti panduan ini untuk melakukan integrasi
   - icon: 📊
     title: Kontrol Data Akurat
-    details: Lorem ipsum...
+    details: Data pelaporan Kepabeanan lebih dapat dipertanggungjawabkan 
   - icon: 🛠️
     title: Customizable
     details: Tim SMART (https://smartconsultant.co) selalu siap membantu jika kustomisasi dibutuhkan oleh perusahaan Anda

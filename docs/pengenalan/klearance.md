@@ -7,26 +7,10 @@ Klearance adalah aplikasi pelaporan Kepabeanan yang dapat digunakan untuk
 ## Manfaat
 1. Memberikan validasi kode barang dengan memanfaatkan data ERP yang telah diintegrasikan
 2. Melakukan pembuatan dokumen Bea Cukai secara semi otomatis dengan bantuan Purchase Order ataupun Invoice
-3. Memberikan vendor portal Klearance One Portal yang dapat digunakan sebagai saran kontrol dokumen Purchase Order dan Shipment
+3. Memberikan vendor portal [Klearance One Portal](#apa-itu-klearance-one-portal) yang dapat digunakan sebagai 
+   1. Sarana kontrol dokumen Purchase Order dan Shipment
+   2. Pra-notifikasi barang yang akan diterima oleh perusahaan
+   3. Penerimaan data BC 2.7 (Khusus untuk Kawasan Berikat)
 
 ## Apa itu Klearance One Portal?
-Klearance One Portal (KLOP) akan terintegrasi dengan CDMS Kawasan Berikat yang dimiliki perusahaan untuk mempermudah proses pembuatan dokumen kepabeanan dan memperbaiki tingkat akurasi data.
-Utamanya KLOP bertujuan untuk mempermudah perusahaan dalam melakukan pencatatan administrasi BC 2.7 masuk, BC 2.3, dan BC 4.0. Secara garis besar user Klearance One Portal akan dibagi menjadi 3, yaitu:
-1. User KB CDMS
-User ini akan berperan untuk melakukan pengecekan terhadap transaksi dokumen internal seperti purchase order dan dokumen kepabeanan internal seperti BC 4.0 dan BC 2.3.
-2. User Eksternal 
-User ini akan berperan sebagai user eksternal dari KLOP yang bertugas untuk membantu User KB CDMS melakukan administrasi dokumen Kepabeanan melalui pembuatan dokumen shipment dan BC 2.7 outbound. User ini dibagi lagi menjadi 3 bagian, yaitu:
-    1. User vendor Kawasan Berikat
-    User ini akan berperan untuk melakukan pembuatan dokumen BC 2.7 outbound, yang nantinya akan diinternalisasi oleh KLOP dan dikirim datanya ke CDMS.
-    2. User Vendor Dalam Negeri
-    User ini akan berperan untuk melakukan pembuatan dokumen shipment, yang nanti datanya bisa dijadikan dasar pembuatan dokumen BC 4.0.
-    3. User Vendor Luar Negeri
-    User ini akan berperan untuk melakukan pembuatan dokumen shipment, yang nanti datanya bisa dijadikan dasar pembuatan dokumen BC 2.3
-
-
-## Skema KLOP
-![](2022-07-22-14-05-16.png)
-![](2022-07-23-12-39-30.png)
-
-1. Untuk vendor Kawasan Berikat, mereka diwajibkan untuk membuat BC 2.7
-2. 
+Klearance One Portal atau biasa disebut KLOP adalah sub aplikasi Klearance yang dapat digunakan sebagai vendor portal. Secara singkat KLOP memungkinkan Anda untuk mengintegrasikan KLOP dengan data Purchase Order dari ERP, kemudian KLOP akan membagikan data PO tersebut kepada vendor yang sesuai, untuk selanjutnya vendor tersebut dapat masuk ke dalam KLOP dan memberikan info kepada perusahaan internal barang apa saja yang ingin mereka antarkan melalui dokumen Shipment.

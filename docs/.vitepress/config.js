@@ -18,29 +18,34 @@ export default defineConfig({
             // This shows `/guide/index.md` page.
             { text: 'Klearance', link: '/pengenalan/klearance' }, // /guide/index.md
             { text: 'Langkah Awal', link: '/pengenalan/langkahawal' }, // /guide/index.md
-            { text: 'One', link: '/guide/one' }, // /guide/one.md
-            { text: 'Two', link: '/guide/two' } // /guide/two.md
           ]
         }
       ],
 
       // This sidebar gets displayed when user is
       // under `config` directory.
-      '/config/': [
+      '/klrkb/': [
         {
-          text: 'Config',
+          text: 'Dokumen',
           items: [
-            // This shows `/config/index.md` page.
-            { text: 'Index', link: '/config/' }, // /config/index.md
-            { text: 'Three', link: '/config/three' }, // /config/three.md
-            { text: 'Four', link: '/config/four' } // /config/four.md
+            { text: 'Kepabeanan', link: '/klrkb/dokumenbc/' }, 
+            { text: 'Internal', link: '/klrkb/dokumeninternal/' }, 
+          ]
+        },
+        {
+          text: 'Integrasi',
+          items: [
+            { text: 'Sync Client', link: '/klrkb/syncclient/' }, 
+            { text: 'API', link: '/klrkb/api/' }, 
+            { text: 'TPB CEISA', link: '/klrkb/tpbceisa/' }, 
+            { text: 'CDMS KB', link: '/klrkb/cdmskb/' }, 
           ]
         }
       ],
 
       // This sidebar gets displayed when user is
       // under `config` directory.
-      '/': [
+      '/klriuip': [
         {
           text: 'Config',
           items: [
@@ -61,8 +66,10 @@ export default defineConfig({
 
 function nav() {
   return [
-    { text: 'Guide', link: '/guide/', activeMatch: '/guide/' },
-    { text: 'Configs', link: '/config/', activeMatch: '/config/' },
+    { text: 'Pengenalan', link: '/pengenalan/klearance.html', activeMatch: '/pengenalan/klearance.html' },
+    { text: 'Klearance KB', link: '/klrkb/', activeMatch: '/klrkb/' },
+    { text: 'Klearance IU/IP', link: '/klriuip/', activeMatch: '/klriuip/' },
+    { text: 'Klearance PLB', link: '/klrplb/', activeMatch: '/klrplb/' },
   ]
 }
 

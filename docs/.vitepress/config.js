@@ -11,12 +11,13 @@ export default defineConfig({
     sidebar: {
       // This sidebar gets displayed when user is
       // under `guide` directory.
-      '/guide/': [
+      '/pengenalan/': [
         {
-          text: 'Guide',
+          text: 'Pengenalan',
           items: [
             // This shows `/guide/index.md` page.
-            { text: 'Index', link: '/guide/' }, // /guide/index.md
+            { text: 'Klearance', link: '/pengenalan/klearance' }, // /guide/index.md
+            { text: 'Langkah Awal', link: '/pengenalan/langkahawal' }, // /guide/index.md
             { text: 'One', link: '/guide/one' }, // /guide/one.md
             { text: 'Two', link: '/guide/two' } // /guide/two.md
           ]
@@ -51,6 +52,10 @@ export default defineConfig({
         }
       ]
     },
+    footer: {
+      message: 'Bea Cukai Lebih Baik',
+      copyright: 'Copyright © 2022 PT Solusi Manufaktur Teknologi'
+    }
   }
 })
 

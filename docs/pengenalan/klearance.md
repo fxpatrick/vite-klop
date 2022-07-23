@@ -7,7 +7,7 @@ Klearance adalah aplikasi pelaporan Kepabeanan yang dapat digunakan untuk
 ## Manfaat
 1. Memberikan validasi kode barang dengan memanfaatkan data ERP yang telah diintegrasikan
 2. Melakukan pembuatan dokumen Bea Cukai secara semi otomatis dengan bantuan Purchase Order ataupun Invoice
-3. Memberikan vendor portal [Klearance One Portal]() yang dapat digunakan sebagai saran kontrol dokumen [Purchase Order]() dan Shipment
+3. Memberikan vendor portal Klearance One Portal yang dapat digunakan sebagai saran kontrol dokumen Purchase Order dan Shipment
 
 ## Apa itu Klearance One Portal?
 Klearance One Portal (KLOP) akan terintegrasi dengan CDMS Kawasan Berikat yang dimiliki perusahaan untuk mempermudah proses pembuatan dokumen kepabeanan dan memperbaiki tingkat akurasi data.

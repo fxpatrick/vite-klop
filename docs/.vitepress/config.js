@@ -6,7 +6,7 @@ export default defineConfig({
   description: 'Vite & Vue powered static site generator.',
   lastUpdated: true,
   themeConfig: {
-    logo: '/klearancelogo.svg',
+    logo: '/klearancelogo.png',
     nav: nav(),
     sidebar: {
       // This sidebar gets displayed when user is

@@ -1,3 +1,12 @@
+---
+title: Contact
+---
+
+
+| Headings      |   Are    |    Centered |
+| ------------- | :------: | ----------: |
+| left align    | centered | right align |
+| zebra striped |   rows   |        easy |
 
 - [Apa itu Klearance?](#apa-itu-klearance)
 - [Apa itu Klearance One Portal?](#apa-itu-klearance-one-portal)

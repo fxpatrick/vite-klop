@@ -2,10 +2,11 @@ import { defineConfig } from "vitepress"
 
 export default defineConfig({
   lang: 'en-US',
-  title: 'Klearance One Portal',
+  title: ' ',
   description: 'Vite & Vue powered static site generator.',
   lastUpdated: true,
   themeConfig: {
+    logo: '/klearancelogo.svg',
     nav: nav(),
     sidebar: {
       // This sidebar gets displayed when user is

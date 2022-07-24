@@ -1,13 +1,14 @@
+# Klearance 101
 ## Apa itu Klearance?
-Klearance adalah aplikasi pelaporan Kepabeanan yang dapat digunakan untuk
-1. Membuat berbagai macam dokumen Bea Cukai dengan akurat
-2. Membuat laporan laporan penting Bea Cukai
-3. Menyimpan seluruh dokumen Bea Cukai sampai dengan 10 tahun
+Klearance adalah aplikasi pelaporan Kepabeanan berbasis web yang dapat digunakan secara gratis oleh berbagai macam perusahaan.
 
 ## Manfaat
-1. Memberikan validasi kode barang dengan memanfaatkan data ERP yang telah diintegrasikan
-2. Melakukan pembuatan dokumen Bea Cukai secara semi otomatis dengan bantuan Purchase Order ataupun Invoice
-3. Memberikan vendor portal [Klearance One Portal](#apa-itu-klearance-one-portal) yang dapat digunakan sebagai 
+1. Memusatkan seluruh data Kepabeanan ke dalam 1 aplikasi
+2. Menyimpan data Kepabeanan sampai dengan 10 tahun
+3. Melakukan pembuatan dokumen Bea Cukai secara semi otomatis dengan bantuan Purchase Order ataupun Invoice
+4. Memberikan konsistensi data Kepabeanan
+5. Memberikan kemudahan dalam kontrol operasional Kepabeanan
+6. Memberikan vendor portal [Klearance One Portal](#apa-itu-klearance-one-portal) yang dapat digunakan sebagai 
    1. Sarana kontrol dokumen Purchase Order dan Shipment
    2. Pra-notifikasi barang yang akan diterima oleh perusahaan
    3. Penerimaan data BC 2.7 (Khusus untuk Kawasan Berikat)

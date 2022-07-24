@@ -9,21 +9,24 @@ export default defineConfig({
     logo: '/klearancelogo.png',
     nav: nav(),
     sidebar: {
-      // This sidebar gets displayed when user is
-      // under `guide` directory.
       '/pengenalan/': [
         {
           text: 'Pengenalan',
           items: [
-            // This shows `/guide/index.md` page.
-            { text: 'Klearance', link: '/pengenalan/klearance' }, // /guide/index.md
-            { text: 'Langkah Awal', link: '/pengenalan/langkahawal' }, // /guide/index.md
+            { text: 'Klearance', link: '/pengenalan/klearance' }, 
+            { text: 'Langkah Awal', link: '/pengenalan/langkahawal' }, 
+            { text: 'Arsitektur', link: '/pengenalan/arsitektur' }, 
+          ]
+        },
+        {
+          text: 'Administrasi',
+          items: [
+            { text: 'User', link: '/pengenalan/user' }, 
+            { text: 'Group', link: '/pengenalan/group' }, 
+            { text: 'Format Dokumen', link: '/pengenalan/formatdokumen' }, 
           ]
         }
       ],
-
-      // This sidebar gets displayed when user is
-      // under `config` directory.
       '/klrkb/': [
         {
           text: 'Dokumen',
@@ -43,16 +46,13 @@ export default defineConfig({
         }
       ],
 
-      // This sidebar gets displayed when user is
-      // under `config` directory.
       '/klriuip': [
         {
           text: 'Config',
           items: [
-            // This shows `/config/index.md` page.
-            { text: 'this is home', link: '/config/' }, // /config/index.md
-            { text: 'Three', link: '/config/three' }, // /config/three.md
-            { text: 'Four', link: '/config/four' } // /config/four.md
+            { text: 'this is home', link: '/config/' }, 
+            { text: 'Three', link: '/config/three' }, 
+            { text: 'Four', link: '/config/four' } 
           ]
         }
       ]

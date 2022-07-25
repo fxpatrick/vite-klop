@@ -1,13 +1,30 @@
 import { defineConfig } from "vitepress"
 
 export default defineConfig({
-  lang: 'en-US',
+  lang: 'id-ID',
   title: 'Klearance Online',
   description: 'Aplikasi Pelaporan Bea Cukai',
   lastUpdated: true,
+  locales: {
+    '/': {
+      lang: 'id-ID',
+      selectText: 'Bahasa Indonesia'
+    },
+    '/en/': {
+      lang: 'en-US',
+      selectText: 'English'
+    }
+  },
   themeConfig: {
     logo: '/klearancelogo.png',
     siteTitle: false,
+    localeLinks: {
+      text: '',
+      items: [
+        { text: 'English', link: '/en/' },
+        { text: 'Bahasa Indonesia', link: '/' }
+      ]
+    },
     nav: nav(),
     sidebar: {
       '/overview/': [

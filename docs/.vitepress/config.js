@@ -10,9 +10,9 @@ export default defineConfig({
     siteTitle: false,
     nav: nav(),
     sidebar: {
-      '/Overview/': [
+      '/overview/': [
         {
-          text: 'overview',
+          text: 'Overview',
           items: [
             { text: 'Klearance', link: '/overview/klearance' }, 
             { text: 'Langkah Awal', link: '/overview/langkahawal' }, 

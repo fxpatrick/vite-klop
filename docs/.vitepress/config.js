@@ -10,7 +10,7 @@ export default defineConfig({
     siteTitle: false,
     nav: nav(),
     sidebar: {
-      '/overview/': [
+      '/Overview/': [
         {
           text: 'overview',
           items: [

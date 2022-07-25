@@ -5,8 +5,6 @@ export default defineConfig({
   title: 'Klearance Online',
   description: 'Aplikasi Pelaporan Bea Cukai',
   lastUpdated: true,
-  head:[['link', { rel: "shortcut icon", href: "/klearancelogo.ico"}]],
-
   themeConfig: {
     logo: '/klearancelogo.png',
     siteTitle: false,
@@ -14,23 +12,30 @@ export default defineConfig({
     sidebar: {
       '/overview/': [
         {
-          text: 'Overview',
+          text: 'overview',
           items: [
             { text: 'Klearance', link: '/overview/klearance' }, 
-            { text: 'Langkah Awal', link: '/overview/langkahawal' }, 
             { text: 'Arsitektur', link: '/overview/arsitektur' }, 
+            { text: 'Langkah Awal', link: '/overview/langkahawal' }, 
           ]
         },
         {
           text: 'Administrasi',
           items: [
             { text: 'User', link: '/overview/user' }, 
-            { text: 'Group', link: '/overview/group' }, 
+            { text: 'Group', link: '/overview/langkahawal.html#group-akses' }, 
             { text: 'Format Dokumen', link: '/overview/formatdokumen' }, 
+            { text: 'Import Mapping', link: '/klrkb/cdmskb/' }, 
           ]
         }
       ],
       '/klrkb/': [
+        {
+          text: 'Langkah Awal',
+          items: [
+            { text: 'Mengundang Vendor', link: '/klrkb/mengundangvendorkb/' }, 
+          ]
+        },
         {
           text: 'Dokumen',
           items: [
@@ -51,11 +56,26 @@ export default defineConfig({
 
       '/klriuip': [
         {
-          text: 'Config',
+          text: 'Langkah Awal',
           items: [
-            { text: 'this is home', link: '/config/' }, 
-            { text: 'Three', link: '/config/three' }, 
-            { text: 'Four', link: '/config/four' } 
+            { text: 'Mengundang Vendor', link: '/klriuip/mengundangvendoriuip/' }, 
+            { text: 'Eksternal', link: '/klriuip/usereksternal/' }, 
+          ]
+        },
+        {
+          text: 'Dokumen',
+          items: [
+            { text: 'Kepabeanan', link: '/klriuip/dokumenbc/' }, 
+            { text: 'Internal', link: '/klriuip/dokumeninternal/' }, 
+            { text: 'Eksternal', link: '/klriuip/dokumeneksternal/' }, 
+          ]
+        },
+        {
+          text: 'Integrasi',
+          items: [
+            { text: 'Sync Client', link: '/klriuip/syncclient/' }, 
+            { text: 'API', link: '/klriuip/api/' }, 
+            { text: 'PIB', link: '/klriuip/tpbceisa/' }, 
           ]
         }
       ]
@@ -69,7 +89,7 @@ export default defineConfig({
 
 function nav() {
   return [
-    { text: 'Overview', link: '/overview/klearance.html', activeMatch: '/overview/klearance.html' },
+    { text: 'overview', link: '/overview/klearance.html', activeMatch: '/overview/klearance.html' },
     { text: 'Klearance KB', link: '/klrkb/', activeMatch: '/klrkb/' },
     { text: 'Klearance IU/IP', link: '/klriuip/', activeMatch: '/klriuip/' },
     { text: 'Klearance PLB', link: '/klrplb/', activeMatch: '/klrplb/' },

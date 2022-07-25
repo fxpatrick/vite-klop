@@ -7,7 +7,7 @@ hero:
   actions:
     - theme: brand
       text: Mulai Belajar
-      link: /pengenalan/klearance
+      link: /overview/klearance
 features:
   - icon: ⚡️
     title: Integrasi Cepat

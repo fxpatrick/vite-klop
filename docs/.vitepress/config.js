@@ -9,21 +9,21 @@ export default defineConfig({
     logo: '/klearancelogo.png',
     nav: nav(),
     sidebar: {
-      '/pengenalan/': [
+      '/overview/': [
         {
-          text: 'Pengenalan',
+          text: 'overview',
           items: [
-            { text: 'Klearance', link: '/pengenalan/klearance' }, 
-            { text: 'Langkah Awal', link: '/pengenalan/langkahawal' }, 
-            { text: 'Arsitektur', link: '/pengenalan/arsitektur' }, 
+            { text: 'Klearance', link: '/overview/klearance' }, 
+            { text: 'Langkah Awal', link: '/overview/langkahawal' }, 
+            { text: 'Arsitektur', link: '/overview/arsitektur' }, 
           ]
         },
         {
           text: 'Administrasi',
           items: [
-            { text: 'User', link: '/pengenalan/user' }, 
-            { text: 'Group', link: '/pengenalan/group' }, 
-            { text: 'Format Dokumen', link: '/pengenalan/formatdokumen' }, 
+            { text: 'User', link: '/overview/user' }, 
+            { text: 'Group', link: '/overview/group' }, 
+            { text: 'Format Dokumen', link: '/overview/formatdokumen' }, 
           ]
         }
       ],
@@ -66,7 +66,7 @@ export default defineConfig({
 
 function nav() {
   return [
-    { text: 'Pengenalan', link: '/pengenalan/klearance.html', activeMatch: '/pengenalan/klearance.html' },
+    { text: 'overview', link: '/overview/klearance.html', activeMatch: '/overview/klearance.html' },
     { text: 'Klearance KB', link: '/klrkb/', activeMatch: '/klrkb/' },
     { text: 'Klearance IU/IP', link: '/klriuip/', activeMatch: '/klriuip/' },
     { text: 'Klearance PLB', link: '/klrplb/', activeMatch: '/klrplb/' },

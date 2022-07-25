@@ -47,4 +47,4 @@ Untuk menentukan user internal dalam melihat akses data, user dapat membuat grou
 2. [IUIP](/klriuip/mengundangvendoriuip/#mengundang-vendor)
 
 ## Login Sebagai Eksternal
-1. [User Eksternal](/krliuip/usereksternal)
+1. [User Eksternal](/klriuip/usereksternal/)

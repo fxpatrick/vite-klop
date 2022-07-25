@@ -67,7 +67,7 @@ export default defineConfig({
 
 function nav() {
   return [
-    { text: 'overview', link: '/overview/klearance.html', activeMatch: '/overview/klearance.html' },
+    { text: 'Overview', link: '/overview/klearance.html', activeMatch: '/overview/klearance.html' },
     { text: 'Klearance KB', link: '/klrkb/', activeMatch: '/klrkb/' },
     { text: 'Klearance IU/IP', link: '/klriuip/', activeMatch: '/klriuip/' },
     { text: 'Klearance PLB', link: '/klrplb/', activeMatch: '/klrplb/' },

@@ -1,7 +1,5 @@
 # Dokumen BC
-
-## Transaksi Pemasukan
-### PIB
+## PIB
 Pengisian dokumen PIB terbagi menjadi 5 bagian, yaitu sebagai berikut:
 ::: details Input Header
 ### Input Header
@@ -172,8 +170,7 @@ Untuk melakukan input kontainer adalah sebagai berikut:
 |993	  |Surat Ijin Menteri Pertanian			   |
 :::
 
-## Transaksi Pengeluaran
-###	PEB
+##	PEB
 Pengisian dokumen PEB terbagai menjadi 6 bagian, yaitu sebagai berikut:
 ::: details Input Header
 ###	Input Header

@@ -12,7 +12,7 @@ export default defineConfig({
     sidebar: {
       '/overview/': [
         {
-          text: 'overview',
+          text: 'Overview',
           items: [
             { text: 'Klearance', link: '/overview/klearance' }, 
             { text: 'Arsitektur', link: '/overview/arsitektur' }, 
@@ -25,7 +25,13 @@ export default defineConfig({
             { text: 'User', link: '/overview/user' }, 
             { text: 'Group', link: '/overview/langkahawal.html#group-akses' }, 
             { text: 'Format Dokumen', link: '/overview/formatdokumen' }, 
-            { text: 'Import Mapping', link: '/klrkb/cdmskb/' }, 
+            { text: 'Import Mapping', link: '/overview/importmapping' }, 
+          ]
+        },
+        {
+          text: 'Integrasi',
+          items: [
+            { text: 'API', link: '/overview/api' }, 
           ]
         }
       ],
@@ -47,7 +53,6 @@ export default defineConfig({
           text: 'Integrasi',
           items: [
             { text: 'Sync Client', link: '/klrkb/syncclient/' }, 
-            { text: 'API', link: '/klrkb/api/' }, 
             { text: 'TPB CEISA', link: '/klrkb/tpbceisa/' }, 
             { text: 'CDMS KB', link: '/klrkb/cdmskb/' }, 
           ]
@@ -74,8 +79,7 @@ export default defineConfig({
           text: 'Integrasi',
           items: [
             { text: 'Sync Client', link: '/klriuip/syncclient/' }, 
-            { text: 'API', link: '/klriuip/api/' }, 
-            { text: 'PIB', link: '/klriuip/tpbceisa/' }, 
+            { text: 'PIB', link: '/klriuip/pib/' }, 
           ]
         }
       ]
@@ -89,10 +93,9 @@ export default defineConfig({
 
 function nav() {
   return [
-    { text: 'overview', link: '/overview/klearance.html', activeMatch: '/overview/klearance.html' },
+    { text: 'Overview', link: '/overview/klearance', activeMatch: '/overview/klearance' },
     { text: 'Klearance KB', link: '/klrkb/', activeMatch: '/klrkb/' },
     { text: 'Klearance IU/IP', link: '/klriuip/', activeMatch: '/klriuip/' },
-    { text: 'Klearance PLB', link: '/klrplb/', activeMatch: '/klrplb/' },
   ]
 }
 

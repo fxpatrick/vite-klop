@@ -10,7 +10,7 @@
         - Melengkapi data TemplatePurchaseOrderDetail.csv
         - Setelah itu bisa diimport menggunakan tombol Import
     1. Manual
-    User dapat menekan tombol Tambah
+        - User dapat menekan tombol Tambah
 5.	Pada Supplier Code diisikan dengan kode vendor yang dituju
 6.	Setelah mengisikan item, user dapat menekan tombol Submit
 7.	Setelah dokumen sudah selesai maka status dokumen Purchase Order tersebut akan menjadi Disetujui, dan Purchase Order tersebut secara otomatis akan muncul pada menu Purchase Order vendor dengan status New

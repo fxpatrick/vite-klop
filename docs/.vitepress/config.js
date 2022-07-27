@@ -1,35 +1,18 @@
 import { defineConfig } from "vitepress"
 
 export default defineConfig({
-  lang: 'id-ID',
+  lang: 'en-US',
   title: 'Klearance Online',
   description: 'Aplikasi Pelaporan Bea Cukai',
   lastUpdated: true,
-  locales: {
-    '/': {
-      lang: 'id-ID',
-      selectText: 'Bahasa Indonesia'
-    },
-    '/en/': {
-      lang: 'en-US',
-      selectText: 'English'
-    }
-  },
   themeConfig: {
     logo: '/klearancelogo.png',
     siteTitle: false,
-    localeLinks: {
-      text: '',
-      items: [
-        { text: 'English', link: '/en/' },
-        { text: 'Bahasa Indonesia', link: '/' }
-      ]
-    },
     nav: nav(),
     sidebar: {
       '/overview/': [
         {
-          text: 'overview',
+          text: 'Overview',
           items: [
             { text: 'Klearance', link: '/overview/klearance' }, 
             { text: 'Arsitektur', link: '/overview/arsitektur' }, 
@@ -110,7 +93,7 @@ export default defineConfig({
 
 function nav() {
   return [
-    { text: 'Overview', link: '/overview/klearance/', activeMatch: '/overview/klearance/' },
+    { text: 'Overview', link: '/overview/klearance', activeMatch: '/overview/klearance' },
     { text: 'Klearance KB', link: '/klrkb/', activeMatch: '/klrkb/' },
     { text: 'Klearance IU/IP', link: '/klriuip/', activeMatch: '/klriuip/' },
   ]

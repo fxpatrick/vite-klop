@@ -20,4 +20,3 @@ Ketika user sudah selesai melakukan pembuatan dokumen BC 2.7 Out, maka user dapa
 5. Ketika Status Sinkronasi sudah berhasil diekspor, maka data tersebut sudah terkirim ke TPB module
 
 ## Update Sinkronisasi Data
-

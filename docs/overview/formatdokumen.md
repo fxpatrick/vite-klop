@@ -1,12 +1,12 @@
 # Format Dokumen
 Untuk mempermudah user dalam melakukan pembuatan otomatis nomor aju dokumen BC, saat ini Klerance One Portal sudah menyediakan Format Dokumen, user dapat menggunakan nya dengan cara sebagai berikut:
-1. Pilih menu Administrasi
-2. Pilih Format Dokumen
-3. Klik tombol Tambah Baru
+1. Pilih menu **Administrasi**
+2. Pilih **Format Dokumen**
+3. Klik tombol **Tambah Baru**
 4. Mengisikan kolom yang  wajib diisi, kolom yang wajib terisi memiliki lambang *
-5. Untuk Tipe Dokumen, adalah tipe dokumen mana yang ingin menggunakan format dokumen
-6. Format diisikan dengan format aju yang diinginkan, untuk komposisi bisa menggunakan Lagenda
-7. Untuk Periode Pengulangan adalah periode yang menentukan counter number aju tersebut kembali lagi dari 0
+5. Untuk **Tipe Dokumen**, adalah tipe dokumen mana yang ingin menggunakan format dokumen
+6. Format diisikan dengan format aju yang diinginkan, untuk komposisi bisa menggunakan **Lagenda**
+7. Untuk **Periode Pengulangan** adalah periode yang menentukan counter number aju tersebut kembali lagi dari 0
 
 contoh format dengan Nomor Aju: 050920 - 003673 - 26072022 - 000001
 - 050920 adalah Nomor KPPBC

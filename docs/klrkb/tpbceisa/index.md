@@ -19,4 +19,4 @@ Ketika user sudah selesai melakukan pembuatan dokumen BC 2.7 Out, maka user dapa
 4. Maka proses pengiriman data tersebut dapat dilihat pada Status Sinkroniasi ![](2022-07-26-18-01-04.png) menjadi 
 5. Ketika Status Sinkronasi sudah berhasil diekspor, maka data tersebut sudah terkirim ke TPB module
 
-## Update Sinkronisasi Data
+## Update Sinkronisasi

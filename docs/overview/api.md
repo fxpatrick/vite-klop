@@ -2,13 +2,13 @@
 ## Header Paramater
 1.	Pada bagian **Authorizations** klik tombol panah
 2.	Copy **Header Paramater Name**
-3.	Masukkan pada bagian Headers Key
-4.	Untuk mendapatkan Value Key API, user dapat menuju Klearance One Portal
-5.	Klik Username anda
-6.	Pilih Profile
-7.	Klik tombol Buat API Key
-8.	Lalu pada kolom API Key akan muncul valuenya, lalu di copy saja value tersebut
-9.	Setelah di salin user dapat meletakkan nya pada Value Key API
+3.	Masukkan pada bagian **Headers Key**
+4.	Untuk mendapatkan **Value Key API**, user dapat menuju Klearance One Portal
+5.	Klik **Username** anda
+6.	Pilih **Profile**
+7.	Klik tombol **Buat API Key**
+8.	Lalu pada kolom **API Key** akan muncul valuenya, lalu di copy saja value tersebut
+9.	Setelah di salin user dapat meletakkan nya pada **Value Key API**
 
 ## Account
 ### Url
@@ -17,9 +17,9 @@
 |POST	|https://dev.api.klearance.online/{tenantcode}/Account/upload|
 
 Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan nama perusahaan, untuk mendapatkan nama perusahan, user dapat melakukan:
-1.	Klik Username anda
-2.	Pilih Profile
-3.	Pilih Perusahaan
+1.	Klik **Username** anda
+2.	Pilih **Profile**
+3.	Pilih **Perusahaan**
 4.	Ambil nama perusahaan
 
 |Paramaters|Description|
@@ -58,26 +58,26 @@ Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan na
 
 |Paramaters    |Condition|Description                             |
 |:-------------|:--------|:---------------------------------------|
-|code	       |Required |Kode perusahaan (Ex: B001)|
-|name	       |Required |Nama perusahaan|
-|address       |		 |Alamat perusahaan|
-|zipcode       |		 |Zipcode perusahaan|
-|phone         |		 |Nomor telepon perusahaan|
-|fax           |		 |Nomor fax perusahaan|
-|bondedtype    |Required |Jenis fasilitas perusahaan diisikan dengan kode ( Ex: BZ)<br>BW – Gudang Berikat<br>BZ – Kawasan Berikat<br>FTZ – Kawasan Perdagangan Bebas<br>LOC – Lokal<br>OVER – Luar Negri<br>PLB – Logistik Berikat|
-|countrycode   |		 |Diisikan dengan kode negara ( Ex :ID untuk Indonesia)|
-|npwp          |Required |Nomor npwp perusahaan|
-|niper         |		 |Nomor niper perusahaan|
-|tpbno         |		 |Nomor tpb perusahaan|
-|tpbdate       |		 |Tanggal tpb perusahaan|
-|kpbccode      |		 |Kode kantor kpbc pengawas ( Ex: 040300 untuk KPU Tanjung Priok)|
-|currencycode  |		 |Kode mata uang ( Ex: USD untuk United State Dollar)|
-|importerstatus|		 |Diisikan dengan kode importer status ( Ex: 1)<br>1 – Importer Umum<br>2 – Importer Produsen<br>12 – Importer Umum & Importir Produsen<br>A – AEO<br>M – Mitra Utama<br>L – Lainnya<br>AM – AEO & Mitra Utama<br>AL – AEO & Lainnya<br>ML – Mitra Utama & Lainnya|
-|apitype       |		 |Diisikan dengan tipe api ( Ex: 1)<br>1 – APIU<br>2 – APIP|
-|apinumber     |		 |nomor api|
-|nik           |		 |Nik perusahaan|
-|accountstatus |		 |Diisikan dengan kode status akun ( Ex: 90 untuk Lainnya)<br>10 – Koperasi<br>20 – PMDN(Migas)<br>21 – PMDN(Non-Migas)<br>30 – PMA(Migas)<br>31 – PMA(Non-Migas)<br>40 – BUMN<br>41 – BUMD<br>60 – Perorangan<br>70 – Usaha Mikro, Kecil dan Menengah ( UMKM )<br>90 – Lainnya|
-|parentaccount |		 |Diisikan dengan kode akun induk jika ada|
+|<code>code</code>	       |Required |Kode perusahaan (Ex: B001)|
+|<code>name</code>	       |Required |Nama perusahaan|
+|<code>address</code>       |		 |Alamat perusahaan|
+|<code>zipcode</code>     |		 |Zipcode perusahaan|
+|<code>phone</code>       |		 |Nomor telepon perusahaan|
+|<code>fax</code>        |		 |Nomor fax perusahaan|
+|<code>bondedtype</code>    |Required |Jenis fasilitas perusahaan diisikan dengan kode ( Ex: BZ)<br>BW – Gudang Berikat<br>BZ – Kawasan Berikat<br>FTZ – Kawasan Perdagangan Bebas<br>LOC – Lokal<br>OVER – Luar Negri<br>PLB – Logistik Berikat|
+|<code>countrycode</code>  |		 |Diisikan dengan kode negara ( Ex :ID untuk Indonesia)|
+|<code>npwp</code>       |Required |Nomor npwp perusahaan|
+|<code>niper</code>       |		 |Nomor niper perusahaan|
+|<code>tpbno</code>        |		 |Nomor tpb perusahaan|
+|<code>tpbdate</code>     |		 |Tanggal tpb perusahaan|
+|<code>kpbccode</code>      |		 |Kode kantor kpbc pengawas ( Ex: 040300 untuk KPU Tanjung Priok)|
+|<code>currencycode</code>  |		 |Kode mata uang ( Ex: USD untuk United State Dollar)|
+|<code>importerstatus</code>|		 |Diisikan dengan kode importer status ( Ex: 1)<br>1 – Importer Umum<br>2 – Importer Produsen<br>12 – Importer Umum & Importir Produsen<br>A – AEO<br>M – Mitra Utama<br>L – Lainnya<br>AM – AEO & Mitra Utama<br>AL – AEO & Lainnya<br>ML – Mitra Utama & Lainnya|
+|<code>apitype</code>      |		 |Diisikan dengan tipe api ( Ex: 1)<br>1 – APIU<br>2 – APIP|
+|<code>apinumber</code>    |		 |nomor api|
+|<code>nik</code>          |		 |Nik perusahaan|
+|<code>accountstatus</code>|		 |Diisikan dengan kode status akun ( Ex: 90 untuk Lainnya)<br>10 – Koperasi<br>20 – PMDN(Migas)<br>21 – PMDN(Non-Migas)<br>30 – PMA(Migas)<br>31 – PMA(Non-Migas)<br>40 – BUMN<br>41 – BUMD<br>60 – Perorangan<br>70 – Usaha Mikro, Kecil dan Menengah ( UMKM )<br>90 – Lainnya|
+|<code>parentaccount</code> |		 |Diisikan dengan kode akun induk jika ada|
 
 ## Product
 
@@ -86,9 +86,9 @@ Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan na
 |POST	|https://dev.api.klearance.online/{tenantcode}/Product/upload|
 
 Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan nama perusahaan, untuk mendapatkan nama perusahan, user dapat melakukan:
-1.	Klik Username anda
-2.	Pilih Profile
-3.	Pilih Perusahaan
+1.	Klik **Username** anda
+2.	Pilih **Profile**
+3.	Pilih **Perusahaan**
 4.	Ambil nama perusahaan
 
 |Paramaters|	Description|
@@ -149,26 +149,26 @@ Apabila ingin menambahkan mapping menjadi dua atau lebih, user dapat menyalain i
 
 |Paramaters	|Condition	|Description|
 |:---------|:-----------|:-----------|
-|code	|Required|	Kode barang ( Ex: BS-001)
-|description	|Required|	Deskirpsi barang
-|uomcode	|Required|	Satuan barang, diisikan dengan kode satuan ( Ex: PCE untuk Piece)
-|hscode|		|Nomor hscode
-|countryorigin|		|Negara asal ( Ex : ID untuk Indonesia)
-|district	||	Daerah asal
-|netweight	||	Nilai berat bersih
-|grossweight	||	Nilai berat kotor
-|volume	||	Nilai volume
-|type ||		Tipe barang
-|spf	||	spesifikasi
-|model	||	model
-|extra1	||	Informasi tambahan
-|extra2	||	Informasi tambahan
-|extra3	||	Informasi tambahan
-|extra4	||	Informasi tambahan
-|accountcode	|Required|	Kode perusahaan ( Ex: B001)
-|accountname	|Required|	Nama perusahaan ( Ex: PT. SENTOSA RAYA)
-|description	|Required|	Deskirpsi barang
-|code	|Required|	Kode barang ( Ex: BS-001)
+|<code>code</code>	|Required|	Kode barang ( Ex: BS-001)
+|<code>description</code>	|Required|	Deskirpsi barang
+|<code>uomcode</code>	|Required|	Satuan barang, diisikan dengan kode satuan ( Ex: PCE untuk Piece)
+|<code>hscode</code>|		|Nomor hscode
+|<code>countryorigin</code>|		|Negara asal ( Ex : ID untuk Indonesia)
+|<code>district</code>	||	Daerah asal
+|<code>netweight</code>	||	Nilai berat bersih
+|<code>grossweight</code>	||	Nilai berat kotor
+|<code>volume</code>	||	Nilai volume
+|<code>type</code> ||		Tipe barang
+|<code>spf</code>	||	spesifikasi
+|<code>model</code>	||	model
+|<code>extra1</code>	||	Informasi tambahan
+|<code>extra2</code>	||	Informasi tambahan
+|<code>extra3</code>	||	Informasi tambahan
+|<code>extra4</code>	||	Informasi tambahan
+|<code>accountcode</code>	|Required|	Kode perusahaan ( Ex: B001)
+|<code>accountname</code>	|Required|	Nama perusahaan ( Ex: PT. SENTOSA RAYA)
+|<code>description</code>	|Required|	Deskirpsi barang
+|<code>code</code>	|Required|	Kode barang ( Ex: BS-001)
 
 ## Purchase Order
 
@@ -177,9 +177,9 @@ Apabila ingin menambahkan mapping menjadi dua atau lebih, user dapat menyalain i
 |POST	|https://dev.api.klearance.online/{tenantcode}/PurchaseOrder/upload|
 
 Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan nama perusahaan, untuk mendapatkan nama perusahan, user dapat melakukan:
-1.	Klik Username anda
-2.	Pilih Profile
-3.	Pilih Perusahaan
+1.	Klik **Username** anda
+2.	Pilih **Profile**
+3.	Pilih **Perusahaan**
 4.	Ambil nama perusahaan
 
 |Paramaters	|Description|
@@ -235,18 +235,18 @@ Apabila ingin menambahkan detail menjadi dua atau lebih, user dapat menyalain is
 ```
 |Paramaters	|Condition|	Description|
 |:----------|:-------|:----------|
-|organizationcode| |	Kode organisasi
-|pono|	Required|	Nomor po ( Ex: PO-001)|
-|podate	|Required|	Tanggal po, format tanggal: yyyy-mm-dd
-|suppliercode	|Required|	Kode supplier ( Ex: B001)
-|suppliername	|Required|	Nama supplier
-|currencycode|		|Kode mata uang ( Ex: USD untuk United State Dollar)
-|transporttype|		|Diisikan dengan nomor jenis transport ( Ex: 1)<br>1 - Lainnya<br>2 - Instalasi/Pipa<br>3 - Perairan<br>4 - Multimoda<br>5 - Pos<br>6 - Udara<br>7 - Darat<br>8 - Kerata Api<br>9 - Laut
-|referenceno|		|Nomor referensi supplier
-|loadingportcode|		|Kode pelabuhan muat ( Ex: IDTPP untuk Tanjung Priok)
-|unloadingportcode|		|Kode pelabuhan bongkar ( Ex: JPTYO untuk Tokyo)
-|productcode	|Required|	Kode barang PO ( Ex: KO01)
-|productname	|Required|	Nama barang PO 
-|uomcode	|Required|	Kode satuan barang ( Ex: PCE untuk Piece)
-|quantity	|Required|	Jumlah barang
-|price	|Required|	harga satuan barang
+|<code>organizationcode</code>| |	Kode organisasi
+|<code>pono</code>|	Required|	Nomor po ( Ex: PO-001)|
+|<code>podate</code>	|Required|	Tanggal po, format tanggal: yyyy-mm-dd
+|<code>suppliercode</code>	|Required|	Kode supplier ( Ex: B001)
+|<code>suppliername</code>	|Required|	Nama supplier
+|<code>currencycode</code>|		|Kode mata uang ( Ex: USD untuk United State Dollar)
+|<code>transporttype</code>|		|Diisikan dengan nomor jenis transport ( Ex: 1)<br>1 - Lainnya<br>2 - Instalasi/Pipa<br>3 - Perairan<br>4 - Multimoda<br>5 - Pos<br>6 - Udara<br>7 - Darat<br>8 - Kerata Api<br>9 - Laut
+|<code>referenceno</code>|		|Nomor referensi supplier
+|<code>loadingportcode</code>|		|Kode pelabuhan muat ( Ex: IDTPP untuk Tanjung Priok)
+|<code>unloadingportcode</code>|		|Kode pelabuhan bongkar ( Ex: JPTYO untuk Tokyo)
+|<code>productcode</code>	|Required|	Kode barang PO ( Ex: KO01)
+|<code>productname</code>	|Required|	Nama barang PO 
+|<code>uomcode</code>	|Required|	Kode satuan barang ( Ex: PCE untuk Piece)
+|<code>quantity</code>	|Required|	Jumlah barang
+|<code>price</code>	|Required|	harga satuan barang

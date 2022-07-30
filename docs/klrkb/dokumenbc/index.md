@@ -4,11 +4,6 @@ Dokumen pemasukan terbagi menjadi beberapa jenis yaitu sebagai berikut:
 ## BC 2.7 Masuk
 Dokumen BC 2.7 Masuk adalah dokumen BC 2.7 Keluar dari vendor yang nantinya setelah dokumen BC 2.7 Keluar dari vendor sudah disetujui dan sudah mendapatkan nomor & tanggal daftar, maka secara otomatis akan muncul pada BC 2.7 Masuk 
 
-## BC 4.0
-
-## BC 2.3
-
-
 # Transaksi Pengeluaran
 Dokumen pengeluaran terbagi menjadi beberapa jenis yaitu sebagai berikut:
 

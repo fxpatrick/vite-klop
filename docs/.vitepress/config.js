@@ -114,8 +114,8 @@ export default defineConfig({
 function nav() {
   return [
     { text: 'Overview', link: '/overview/klearance', activeMatch: '/overview/klearance' },
-    { text: 'Klearance KB', link: '/klrkb/', activeMatch: '/klrkb/' },
-    { text: 'Klearance IU/IP', link: '/klriuip/', activeMatch: '/klriuip/' },
+    { text: 'Klearance KB', link: '/klrkb/mengundangvendorkb/', activeMatch: '/klrkb/mengundangvendorkb/' },
+    { text: 'Klearance IU/IP', link: '/klriuip/mengundangvendoriuip/', activeMatch: '/klriuip/mengundangvendoriuip/' },
     { text: 'Term of Services', link: '/legal/tos', activeMatch: '/legal/tos' },
   ]
 }

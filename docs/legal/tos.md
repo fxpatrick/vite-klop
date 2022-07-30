@@ -34,8 +34,9 @@ Jika Anda tidak setuju dengan (atau tidak dapat mematuhi) Perjanjian, maka Anda 
 4. Atas penerimaan pembayaran Layanan, Kami dengan ini memberikan kepada Anda suatu lisensi penggunaan yang bersifat non-eksklusif, tidak dapat dialihkan dan diabadikan 
 
 ## Pasal 3. Garansi Terbatas
-1. Selama jangka waktu Layanan kami menyatakan dan menjamin bahwa Layanan yang diberikan berdasarkan S&K ini akan dilaksanakan secara profesional dan ahli
-2. 
+1. Jangka waktu Layanan adalah jangka waktu Anda berhak menggunakan Layanan Kami dengan memastikan menyelesaikan seluruh kewajiban yang wajib Anda penuhi.
+2. Selama jangka waktu Layanan menyatakan dan menjamin bahwa Layanan yang diberikan berdasarkan S&K ini akan dilaksanakan secara profesional dan ahli
+3. Selama jangka waktu Layanan Anda berhak untuk meminta dukungan kepada Kami, jika dibutuhkan hal - hal khusus yang membutuhkan informasi keahlian Kami melalui https://support.smartconsultant.co
 
 ## Pasal 4. Tindakan Keamanan
 1. Kami bertanggung jawab untuk memelihara untuk melakukan proteksi kerahasiaan, integritas, dan keamanan Anda terhadap Layanan yang kami tawarkan. Kami akan mengimplementasikan langkah teknis dan tindakan teknis yang didesain untuk memproteksi Anda terhadap akses yang tidak terotorisasi, kerusakan, dan kehilangan Data Anda. Kami tidak akan mengakses, membuka, memperbolehkan akses pihak lain kepada Data Anda.

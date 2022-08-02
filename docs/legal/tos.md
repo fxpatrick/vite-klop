@@ -64,8 +64,8 @@ Atas Layanan yang Kami berikan kepada Anda, Kami berhak untuk:
     * Jika timbul perbedaan Jumlah Barang antara Jumlah di PEB dengan Nilai Internal Pembukuan dari User.
     * Jika timbul perbedaan Jenis antara Uraian Barang di PEB dengan Jenis Barang di Internal Pembukuan dari User.
     * Jika User tidak melakukan pengisian Deklarasi Inisiatif pada Modul PIB.
-3. Kesalahan persentase tarif atas Kode HS yang disebabkan kurang terbarunya data yang disediakan oleh kami.
-4. Segala denda yang mungkin timbul karena aktifitas yang dilakukan pada Layanan oleh Anda
+3. Tidak bertanggung jawab atas kesalahan persentase tarif atas Kode HS yang disebabkan kurang terbarunya data yang disediakan oleh kami.
+4. Tidak bertanggung jawab atas segala denda yang mungkin timbul karena aktifitas yang dilakukan pada Layanan oleh Anda
 
 ## Pasal 6. Pengakhiran
 1. Kedua belah pihak berhak untuk melakukan pengakhiran dengan secara tertulis tiga puluh (30) hari kalender sebelumnya kepada pihak masing - masing.

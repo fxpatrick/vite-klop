@@ -38,7 +38,7 @@ Jika Anda tidak setuju dengan (atau tidak dapat mematuhi) Perjanjian, maka Anda 
 2. Selama jangka waktu Layanan menyatakan dan menjamin bahwa Layanan yang diberikan berdasarkan S&K ini akan dilaksanakan secara profesional dan ahli
 3. Selama jangka waktu Layanan Anda berhak untuk meminta dukungan kepada Kami, jika dibutuhkan hal - hal khusus yang membutuhkan informasi keahlian Kami melalui https://support.smartconsultant.co. 
 4. Dukungan diberikan kepada Anda pada hari kerja Senin - Jumat pukul 09:00 WIB sampai dengan 18:00 WIB
-5. Kami bertanggung jawab atas dalam melakukan backup harian atas data yang tersimpan pada Layanan, tetapi tidak dapat menjamin penuh bahwa tidak akan pernah terjadi kehilangan data
+5. Kami bertanggung jawab dalam melakukan backup harian atas data yang tersimpan pada Layanan, tetapi tidak dapat menjamin penuh bahwa tidak akan pernah terjadi kehilangan data
 
 ## Pasal 4. Tindakan Keamanan
 1. Kami bertanggung jawab untuk memelihara untuk melakukan proteksi kerahasiaan, integritas, dan keamanan Anda terhadap Layanan yang kami tawarkan. Kami akan mengimplementasikan langkah teknis dan tindakan teknis yang didesain untuk memproteksi Anda terhadap akses yang tidak terotorisasi, kerusakan, dan kehilangan Data Anda. Kami tidak akan mengakses, membuka, memperbolehkan akses pihak lain kepada Data Anda.

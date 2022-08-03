@@ -70,9 +70,9 @@ Atas Layanan yang Kami berikan kepada Anda, Kami berhak untuk:
 ## Pasal 6. Pengakhiran
 1. Kedua belah pihak berhak untuk melakukan pengakhiran dengan secara tertulis tiga puluh (30) hari kalender sebelumnya kepada pihak masing - masing.
 2. Anda diwajibkan untuk melunasi segala tagihan yang masih belum dibayarkan, apabila Anda hendak melakukan pengakhiran. 
-3. Atas kewajiban yang pembayaran tagihan yang tertunda, Layanan akan tidak dapat diakses kembali setelah tujuh puluh (70) hari kalender dari tanggal jatuh tempo tagihan yang tertunda
+3. Atas kewajiban pembayaran tagihan yang tertunda, Layanan akan tidak dapat diakses kembali setelah tujuh puluh (70) hari kalender dari tanggal jatuh tempo tagihan yang tertunda
 
-## Pasal7. Penyelesaian Perselisihan
+## Pasal 7. Penyelesaian Perselisihan
 
 Setiap perselisihan yang terjadi akan diupayakan penyelesaian secara musyawarah untuk mufakat, jika musyawarah mufakat tidak tercapai maka perselisihannya akan diselesaikan melalui Badan Arbitrase Nasional Indonesia (BANI) sesuai dengan ketentuan yang berlaku.
 

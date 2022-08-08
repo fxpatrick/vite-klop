@@ -4,7 +4,10 @@
 1. Pilih menu **Administrasi**
 2. Pilih menu **User**
 3. Klik tombol **Tambah Baru**
-4. Masukkan **Email** (akan digunakan sebagai email untuk login)
+4. Masukkan **Email**
+::: info
+Email ini akan digunakan sebagai email login oleh user
+:::
 5. Masukkan **Nama** user
 6. Masukkan **Tipe** Internal
 7. Pilih **Group**, fungsi dari group ini adalah untuk melimit akses yang akan diberikan, untuk info lebih lanjut user dapat menuju guide [Group](/overview/langkahawal.html#group-akses)

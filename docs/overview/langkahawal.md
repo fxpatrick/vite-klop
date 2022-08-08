@@ -40,9 +40,13 @@ Untuk menentukan user internal dalam melihat akses data, user dapat membuat grou
 5.	Pilih apakah ingin menampilkan seluruh dokumen vendor atau tidak, jika **Ya** maka user yang berada di dalam group ini akan bisa melihat seluruh dokumen wajib vendor ( Ex: Dokumen wajib vendor berupa **Invoice, Packing List, & Surat Jalan**) maka user tersebut akan dapat melihat ke tiga dokumen tersebut, namun apabila memilih **Tidak**, maka user harus mengisikan tab **Dokumen Vendor**
 6.	Dokumen yang ditambahkan pada tab Dokumen Vendor adalah dokumen yang nanti bisa dilihat atau dapat di akses oleh user ( Ex: **Invoice** ), maka user di group ini hanya dapat melihat dokumen invoice
 7.	Untuk menambahkan user pada group ini, user dapat tombol **Tambah User** pada tab **User**
-8.	User juga bisa mengatur hak ases apa saja yang didilakukan oleh anggota group tersebut
+8.	User juga bisa mengatur hak ases apa saja yang dilakukan oleh anggota group tersebut
+:::info
+Hak Akses digunakan untuk membatasi akses dari user, untuk mengakses data - data perusahaan
+:::
 
 ## Mengundang Vendor
+Untuk mengundang vendor sebagai user kawasan berikat dan user iuip berbeda, user dapat melakukan klik link yang sudah disediakan berikut ini:
 1. [Kawasan Berikat](/klrkb/mengundangvendorkb/#mengundang-vendor) 
 2. [IUIP](/klriuip/mengundangvendoriuip/#mengundang-vendor)
 

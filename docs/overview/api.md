@@ -1,14 +1,13 @@
 # API
 ## Header Paramater
-1.	Pada bagian **Authorizations** klik tombol panah
-2.	Copy **Header Paramater Name**
-3.	Masukkan pada bagian **Headers Key**
-4.	Untuk mendapatkan **Value Key API**, user dapat menuju Klearance One Portal
-5.	Klik **Username** anda
-6.	Pilih **Profile**
-7.	Klik tombol **Buat API Key**
-8.	Lalu pada kolom **API Key** akan muncul valuenya, lalu di copy saja value tersebut
-9.	Setelah di salin user dapat meletakkan nya pada **Value Key API**
+1.	Kunjungi [Klearance API](https://dev.api.klearance.online/redoc)
+2.  Pada bagian **Authorizations** klik tombol panah
+3.	Copy value **Header Paramater Name**
+5.	Untuk mendapatkan **Value Key API**, user dapat menuju Klearance One Portal
+6.	Klik **Username** anda
+7.	Pilih **Profile**
+8.	Klik tombol **Buat API Key**
+9.	Lalu pada kolom **API Key** akan muncul valuenya, lalu di copy saja value tersebut
 
 ## Account
 ### Url
@@ -128,7 +127,7 @@ Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan na
     ]
   }
 ```
-Apabila ingin menambahkan mapping menjadi dua atau lebih, user dapat menyalain isi table didalam { } dan ditambahkan koma setelah tutup kurung sebelum memulai buka kurung yang baru Contoh:
+Apabila ingin menambahkan mapping menjadi dua atau lebih, user dapat menyalin isi table didalam { } dan ditambahkan koma setelah tutup kurung sebelum memulai buka kurung yang baru Contoh:
 
 ```json
 "mapping": [
@@ -213,7 +212,7 @@ Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan na
     ]
   }
 ```
-Apabila ingin menambahkan detail menjadi dua atau lebih, user dapat menyalain isi table didalam { } dan ditambahkan koma setelah tutup kurung sebelum memulai buka kurung yang baru Contoh: 
+Apabila ingin menambahkan detail menjadi dua atau lebih, user dapat menyalin isi table didalam { } dan ditambahkan koma setelah tutup kurung sebelum memulai buka kurung yang baru Contoh: 
 
 ```json
 "details": [

@@ -63,7 +63,7 @@ Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan na
 |<code>zipcode</code>     |		 |Zipcode perusahaan|
 |<code>phone</code>       |		 |Nomor telepon perusahaan|
 |<code>fax</code>        |		 |Nomor fax perusahaan|
-|<code>bondedtype</code>    |Required |Jenis fasilitas perusahaan diisikan dengan kode ( Ex: BZ)<br>BW – Gudang Berikat<br>BZ – Kawasan Berikat<br>FTZ – Kawasan Perdagangan Bebas<br>LOC – Lokal<br>OVER – Luar Negri<br>PLB – Logistik Berikat|
+|<code>bondedtype</code>    |Required |Jenis fasilitas perusahaan diisikan dengan kode ( Ex: BZ)<br>BW – Gudang Berikat<br>BZ – Kawasan Berikat<br>FTZ – Kawasan Perdagangan Bebas<br>LOC – Lokal<br>OVR – Luar Negri<br>PLB – Logistik Berikat|
 |<code>countrycode</code>  |		 |Diisikan dengan kode negara ( Ex :ID untuk Indonesia)|
 |<code>npwp</code>       |Required |Nomor npwp perusahaan|
 |<code>niper</code>       |		 |Nomor niper perusahaan|

@@ -14,6 +14,9 @@ contoh format dengan Nomor Aju: 050920 - 003673 - 26072022 - 000001
 - 26072022 adalah tanggal pembuatan aju tersebut
 - 000001 adalah 6 digit counter number (bertambah 1 terus menerus setiap kali request aju baru)
 maka ketika user mengisikan format nanti user dapat menggunakan format seperti ini <code>050920003673{1:yyyyMMdd}{0:000000}</code>
+::: info
+Setelah membuat format, user baru bisa melakukan setting counter number dimulai dari angka keberapa
+:::
 
 ## Lagenda
 

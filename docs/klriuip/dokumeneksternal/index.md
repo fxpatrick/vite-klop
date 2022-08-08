@@ -10,7 +10,7 @@ Apabila pembeli telah membuat dokumen **Purchase Order**, maka user akan melihat
 6.	Setelah User menyelesaikan dokumen Shipment, maka status **Purchase Order** Number tersebut akan menjadi Completely Fullfiled
 
 ## Shipment
-Apabila user ingin mengirimkan barang untuk memenuhi **Purchase Order** yang di terima, maka user dapat membuat dokumen di menu** Shipment**.
+Apabila user ingin mengirimkan barang untuk memenuhi **Purchase Order** yang diterima, maka user dapat membuat dokumen di menu **Shipment**.
 
 #### a. Via Import Template
 Untuk melakukan pembuatan dokumen Shipment user bisa menggunakan template yang sudah disedikan.

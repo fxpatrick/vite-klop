@@ -1,13 +1,24 @@
 # API
+
+## API Key
+Untuk mendapatkan **API Key**, Anda dapat mengikuti langkah di bawah ini
+::: info
+Silahkan pastikan Anda sudah memiliki Akun dan Perusahaan yang terdaftar pada Klearance
+:::
+
+1.	Klik **Username** Anda pada bagian pojok kanan atas
+2.	Klik **Profil**
+1.  Klik **Profil** pada bagian kiri
+4.	Klik tombol **Buat API Key**
+
+::: warning
+jika tombol **Buat API Key** diklik untuk kedua kalinya, maka API Key sebelumnya tidak akan bisa dipakai kembali
+:::
+
 ## Header Paramater
-1.	Kunjungi [Klearance API](https://dev.api.klearance.online/redoc)
+1.	Kunjungi [Klearance API Technical Documentation](https://dev.api.klearance.online/redoc)
 2.  Pada bagian **Authorizations** klik tombol panah
-3.	Copy value **Header Paramater Name**
-5.	Untuk mendapatkan **Value Key API**, user dapat menuju Klearance One Portal
-6.	Klik **Username** anda
-7.	Pilih **Profile**
-8.	Klik tombol **Buat API Key**
-9.	Lalu pada kolom **API Key** akan muncul valuenya, lalu di copy saja value tersebut
+3.	Copy nama parameter pada **Header Paramater Name**
 
 ## Account
 ### Url

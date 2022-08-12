@@ -206,7 +206,8 @@ Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan na
             "productname": "KO001",
             "uomcode": "PCE",
             "quantity": 100,
-            "price": 1
+            "price": 1,
+            "totalprice": 100
           }
         ]
       }
@@ -222,14 +223,16 @@ Apabila ingin menambahkan detail menjadi dua atau lebih, user dapat menyalain is
             "productname": "KO001",
             "uomcode": "PCE",
             "quantity": 100,
-            "price": 1
+            "price": 1,
+            "totalprice": 100
           },
           {
             "productcode": "LIP001",
             "productname": "LIP",
             "uomcode": "PCE",
             "quantity": 100,
-            "price": 2
+            "price": 2,
+            "totalprice": 200
           }
         ]
 ```
@@ -250,3 +253,4 @@ Apabila ingin menambahkan detail menjadi dua atau lebih, user dapat menyalain is
 |<code>uomcode</code>	|Required|	Kode satuan barang ( Ex: PCE untuk Piece)
 |<code>quantity</code>	|Required|	Jumlah barang
 |<code>price</code>	|Required|	harga satuan barang
+|<code>totalprice</code>	|Required|	harga total barang

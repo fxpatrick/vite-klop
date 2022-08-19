@@ -60,7 +60,8 @@ Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan na
         "apinumber": " ",
         "nik": " ",
         "accountstatus": "90",
-        "parentaccount": " "
+        "parentaccount": " ",
+        "deletion": false
       }
     ]
   }
@@ -88,6 +89,7 @@ Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan na
 |<code>nik</code>          |		 |Nik perusahaan|
 |<code>accountstatus</code>|		 |Diisikan dengan kode status akun ( Ex: 90 untuk Lainnya)<br>10 – Koperasi<br>20 – PMDN(Migas)<br>21 – PMDN(Non-Migas)<br>30 – PMA(Migas)<br>31 – PMA(Non-Migas)<br>40 – BUMN<br>41 – BUMD<br>60 – Perorangan<br>70 – Usaha Mikro, Kecil dan Menengah ( UMKM )<br>90 – Lainnya|
 |<code>parentaccount</code> |		 |Diisikan dengan kode akun induk jika ada|
+|<code>deletion</code>	| |	Indikator yang berguna untuk mengetahui apakah akun tersebut sudah dihapus pada ERP. <br> Jika <code>true</code>, maka akun tersebut tidak akan dapat digunakan, dan status akun tersebut akan menjadi Tidak Aktif <br> Jika <code>false</code>, maka akun tersebut dapat digunakan, dan status akun tersebut akan menjadi Aktif
 
 ## Product
 

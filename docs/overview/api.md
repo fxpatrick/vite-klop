@@ -212,12 +212,17 @@ Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan na
         "unloadingportcode": "IDTPP",
         "details": [
           {
+            "lineno": "1",
             "productcode": "KO01",
             "productname": "KO001",
             "uomcode": "PCE",
-            "quantity": 100,
-            "price": 1,
-            "totalprice": 100
+            "quantity": 200,
+            "price": 5,
+            "totalprice": 1000,
+            "quantityreceipt": 100,
+            "deletion": false,
+            "externalmodifiedon": "2022-08-17",
+            "completed": false
           }
         ]
       }
@@ -229,20 +234,30 @@ Apabila ingin menambahkan detail menjadi dua atau lebih, user dapat menyalin isi
 ```json
 "details": [
           {
+            "lineno": "1",
             "productcode": "KO01",
             "productname": "KO001",
             "uomcode": "PCE",
             "quantity": 100,
             "price": 1,
-            "totalprice": 100
+            "totalprice": 100,
+            "quantityreceipt": 10,
+            "deletion": false,
+            "externalmodifiedon": "2022-08-17",
+            "completed": false
           },
           {
+            "lineno": "2",
             "productcode": "LIP001",
             "productname": "LIP",
             "uomcode": "PCE",
             "quantity": 100,
             "price": 2,
-            "totalprice": 200
+            "totalprice": 200,
+            "quantityreceipt": 20,
+            "deletion": false,
+            "externalmodifiedon": "2022-08-17",
+            "completed": false
           }
         ]
 ```
@@ -258,9 +273,14 @@ Apabila ingin menambahkan detail menjadi dua atau lebih, user dapat menyalin isi
 |<code>referenceno</code>|		|Nomor referensi supplier
 |<code>loadingportcode</code>|		|Kode pelabuhan muat ( Ex: IDTPP untuk Tanjung Priok)
 |<code>unloadingportcode</code>|		|Kode pelabuhan bongkar ( Ex: JPTYO untuk Tokyo)
+|<code>lineno</code>| | seri barang
 |<code>productcode</code>	|Required|	Kode barang PO ( Ex: KO01)
 |<code>productname</code>	|Required|	Nama barang PO 
 |<code>uomcode</code>	|Required|	Kode satuan barang ( Ex: PCE untuk Piece)
 |<code>quantity</code>	|Required|	Jumlah barang
-|<code>price</code>	|Required|	harga satuan barang
-|<code>totalprice</code>	|Required|	harga total barang
+|<code>price</code>	| |	Harga satuan barang
+|<code>totalprice</code>	|Required|	Harga total barang
+|<code>quantityreceipt</code>	| |	Jumlah barang yang sudah diterima
+|<code>deletion</code>	| |	Indikator yang berguna untuk mengetahui apakah detail barang tersebut sudah dihapus pada ERP. <br> Jika <code>true</code>, maka detail barang tersebut akan diabaikan <br> Jika <code>false</code>, maka detail barang tersebut akan tetap dapat digunakan
+|<code>externalmodifiedon</code>	| |	Tanggal terakhir data di-modifikiasi
+|<code>completed</code>	| |	Indikator yang berguna untuk mengetahui apakah detail barang tersebut sudah diterima secara utuh pada ERP. <br> Jika <code>true</code>, maka PO tersebut sudah tidak lagi dapat digunakan saat pembuatan dokumen PIB <br> Jika <code>false</code>, maka PO tersebut dapat digunakan saat pembuatan dokumen PIB 

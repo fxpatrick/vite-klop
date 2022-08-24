@@ -45,6 +45,7 @@ export default defineConfig({
             { text: 'Group', link: '/overview/langkahawal.html#group-akses' }, 
             { text: 'Format Dokumen', link: '/overview/formatdokumen' }, 
             { text: 'Import Mapping', link: '/overview/importmapping' }, 
+            { text: 'Dokumen Wajib Vendor', link: '/overview/dokumenwajibvendor' }, 
           ]
         },
         {

@@ -16,5 +16,14 @@ Apabila user telah menggunakan CDMS KB, maka user dapat melakukan setting untuk 
 7. Setelah melengkapi data, user dapat menekan tombol **Simpan**
 
 ## Upload PO One Portal
+Apabila user sudah berhasil melakukan pengaturan koneksi KB dengan Klearance One Portal, user dapat mengirimkan data master akun & master produk dengan melakukan step berikut ini:
+1.	Pada menu CDMS KB, user dapat menuju menu **Integrasi Data**
+2.	Klik **Proses Integrasi Data**
+3.	Pilih **Upload Master One Portal**
+4.	Masukkan filter tanggal yang ingin di unggah ke Klearance One Portal
 
 ## Upload Master One Portal
+Apabila user sudah berhasil melakukan pengaturan koneksi KB dengan Klearance One Portal, user dapat mengirimkan data purchase order dengan melakukan step berikut ini:
+1.	Pada menu CDMS KB, user dapat menuju menu **Integrasi Data**
+2.	Klik **Proses Integrasi Data**
+3.	Pilih **Upload PO One Portal**

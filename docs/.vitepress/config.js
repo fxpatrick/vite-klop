@@ -27,6 +27,11 @@ export default defineConfig({
         { text: 'Bahasa Indonesia', link: '/' }
       ]
     },
+    algolia: {
+      appId: '5CBKKTFX9W',
+      apiKey: '648c192fb368017ea778d310f0bc2663',
+      indexName: 'klearance-wiki'
+    },
     nav: nav(),
     sidebar: {
       '/overview/': [

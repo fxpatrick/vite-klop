@@ -34,7 +34,7 @@
 9.	Apabila kode barang belum ada di data master, maka secara otomatis akan dibuat pada **Master Barang**
 
 ### Upload KB CDMS
-User dapat melakukan import data **Purchase Order** yang sudah dibuat pada KB CDMS, sehingga pada Klearance One Portal, user tidak perlu lagi membuat Purchase Order yang sama dengan cara menyambungkan koneksi antara CDMS KB dengan Klearance One Portal, untuk menyambungkan koneksi tersebut, user dapat menuju [CDMS KB]()
+User dapat melakukan import data **Purchase Order** yang sudah dibuat pada KB CDMS, sehingga pada Klearance One Portal, user tidak perlu lagi membuat Purchase Order yang sama dengan cara menyambungkan koneksi antara CDMS KB dengan Klearance One Portal, untuk menyambungkan koneksi tersebut, user dapat menuju [CDMS KB](/klrkb/cdmskb/)
 
 
 ## Dokumen Shipment

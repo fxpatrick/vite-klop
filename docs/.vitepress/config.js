@@ -47,7 +47,6 @@ export default defineConfig({
           text: 'Master',
           items: [
             { text: 'Barang', link: '/overview/barang' }, 
-            { text: 'Akun', link: '/overview/arsitektur' }, 
             { text: 'Dokumen Wajib Vendor', link: '/overview/dokumenwajibvendor' },
           ]
         },

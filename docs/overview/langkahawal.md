@@ -23,13 +23,8 @@ Perhatikan jangan mendaftarkan perusahaan anda dengan spasi
 :::
 
 
-## Membuat Dokumen Vendor
-Untuk Dokumen Vendor ini berguna sebagai Dokumen apa saja yang harus dilengkapi oleh supplier ketika melengkapi Purchase Order	
-1.	Klik menu **Master**
-2.	Klik **Dokumen Vendor**
-3.	Klik **Download**
-4.	Lengkapi file excel yang sudah didownload
-5.	Klik **Upload**
+## Membuat Dokumen Wajib Vendor
+Untuk Dokumen Vendor ini berguna sebagai Dokumen apa saja yang harus dilengkapi oleh supplier ketika melengkapi Purchase Order, [Dokumen Wajib Vendor](/overview/dokumenwajibvendor.html#pembuatan-dokumen-wajib-vendor)
 
 ## Group Akses
 Untuk menentukan user internal dalam melihat akses data, user dapat membuat group yang nantinya akan memberikan hakakses untuk setiap user nya, dengan cara sebagai berikut:

@@ -1,6 +1,6 @@
 # Dokumen Internal
 ## Purchase Order
-### a. Manual
+### Manual
 1.	Klik tombol **Tambah Baru**
 2.	Melengkapi data – data yang harus diisi, data yang wajib diisi memiliki tanda *
 3.	Setelah melengkapi data, user dapat menekan tombol **Simpan**
@@ -20,13 +20,13 @@
 2.	Klik **Impor Data**
 3.	Klik **Tambah Baru**
 4.	Pilih **Purchase Order**
-5.	Pilih file yang ingin diunggah, apabila ingin menggunakan template Klearance One Portal, user dapat menekan tombol **Unduh Template**, namun apabila ingin menggunakan template sendiri, maka user tidak perlu unduh template
+5.	Pilih file yang ingin diunggah, apabila ingin menggunakan template **Klearance One Portal**, user dapat menekan tombol **Unduh Template**, namun apabila ingin menggunakan template sendiri, maka user tidak perlu unduh template
 6.	Lampirkan file yang ingin diunggah
-7.	Apabila file yang diunggah menggunakan template Klearance One Portal, maka pada Default Index user dapat memilih **Ya**, namun apabila user menggunakan template sendiri, maka user perlu memilih **Tidak**, dan melakukan mapping index terlebih dahulu dengan cara sebagai berikut:
+7.	Apabila file yang diunggah menggunakan template **Klearance One Portal**, maka pada Default Index user dapat memilih **Ya**, namun apabila user menggunakan template sendiri, maka user perlu memilih **Tidak**, dan melakukan mapping index terlebih dahulu dengan cara sebagai berikut:
 1.	Klik **Administrasi**
 2.	Klik **Mapping Import Dokumen**
 3.	Cari pada bagian index **Purchase Order**
-4.	Mengisikan **Baris Mulai**, baris mulai diisikan dengan baris dari data PO tersebut ( Ex: baris 1 adalah baris untuk kolom dan data nya berada di baris setelah kolom tersebut, maka Baris Mulai bisa diisikan dengan 2)
+4.	Mengisikan **Baris Mulai**, baris mulai diisikan dengan baris dari data **Purchase Oder** tersebut ( Ex: baris 1 adalah baris untuk kolom dan data nya berada di baris setelah kolom tersebut, maka Baris Mulai bisa diisikan dengan 2)
 5.	Pada **Index No** diisikan dengan Index kolom dari template yang akan diunggah oleh user
 6.	Pada bagian **Key** dapat diceklist apabila kolom tersebut adalah unik, dan seluruh datanya tidak akan sama
 8.	Apabila user ingin mengunggah data dengan tujuan adalah melakukan update data, maka pada bagian Update Data dapat memilih **Ya**, namun apabila bertujuan untuk menambhakan data baru, maka user bisa memilih **Tidak**
@@ -35,5 +35,5 @@
 ## Shipment
 Apabila Vendor telah memenuhi **Purchase Order** yang telah anda minta, dan sudah membuat dokumen Shipment, maka nomor dokumen tersebut akan muncul di menu **Shipment**
 1.	Setelah Vendor menyelesaikan pembuatan dokumen Shipment, maka Status dokumen tersebut akan berubah menjadi **Ready**
-2.	Setelah status sudah **Ready**, user dapat memilih dokumen nya dan menekan tombol **Convert To PIB** untuk secara otomatis membuatkan dokumen PIB nya
-3.	Setelah itu user dapat melengkapi dokumen PIB nya
+2.	Setelah status sudah **Ready**, user dapat memilih dokumen nya dan menekan tombol **Convert To PIB** untuk secara otomatis membuatkan dokumen **PIB** nya
+3.	Setelah itu user dapat melengkapi dokumen **PIB** nya

@@ -44,13 +44,20 @@ export default defineConfig({
           ]
         },
         {
+          text: 'Master',
+          items: [
+            { text: 'Barang', link: '/overview/barang' }, 
+            { text: 'Akun', link: '/overview/arsitektur' }, 
+            { text: 'Dokumen Wajib Vendor', link: '/overview/dokumenwajibvendor' },
+          ]
+        },
+        {
           text: 'Administrasi',
           items: [
             { text: 'User', link: '/overview/user' }, 
             { text: 'Group', link: '/overview/langkahawal.html#group-akses' }, 
             { text: 'Format Dokumen', link: '/overview/formatdokumen' }, 
             { text: 'Import Mapping', link: '/overview/importmapping' }, 
-            { text: 'Dokumen Wajib Vendor', link: '/overview/dokumenwajibvendor' }, 
           ]
         },
         {
@@ -95,7 +102,8 @@ export default defineConfig({
         {
           text: 'Dokumen',
           items: [
-            { text: 'Kepabeanan', link: '/klriuip/dokumenbc/' }, 
+            { text: 'PIB', link: '/klriuip/pib/' }, 
+            { text: 'PEB', link: '/klriuip/peb/' }, 
             { text: 'Internal', link: '/klriuip/dokumeninternal/' }, 
             { text: 'Eksternal', link: '/klriuip/dokumeneksternal/' }, 
           ]

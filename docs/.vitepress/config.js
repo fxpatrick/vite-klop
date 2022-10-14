@@ -95,14 +95,16 @@ export default defineConfig({
           text: 'Langkah Awal',
           items: [
             { text: 'Mengundang Vendor', link: '/klriuip/mengundangvendoriuip/' }, 
-            { text: 'Eksternal', link: '/klriuip/usereksternal/' }, 
+            { text: 'User Eksternal', link: '/klriuip/usereksternal/' }, 
+            { text: 'Purchase Order', link: '/klriuip/purchaseorder/' }, 
+            { text: 'Shipment', link: '/klriuip/shipment/' }, 
+            { text: 'Pembuatan Dokumen PIB', link: '/klriuip/pib/' }, 
+            { text: 'Pembuatan Dokumen PEB', link: '/klriuip/peb/' }, 
           ]
         },
         {
           text: 'Dokumen',
           items: [
-            { text: 'PIB', link: '/klriuip/pib/' }, 
-            { text: 'PEB', link: '/klriuip/peb/' }, 
             { text: 'Internal', link: '/klriuip/dokumeninternal/' }, 
             { text: 'Eksternal', link: '/klriuip/dokumeneksternal/' }, 
           ]
@@ -111,7 +113,6 @@ export default defineConfig({
           text: 'Integrasi',
           items: [
             { text: 'Sync Client', link: '/klriuip/syncclient/' }, 
-            { text: 'PIB', link: '/klriuip/pib/' }, 
           ]
         }
       ]

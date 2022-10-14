@@ -19,7 +19,7 @@ Untuk melakukan input detil barang terbagi menjadi beberapa cara yaitu:
 ### Via Template
 1.	Klik Tombol **Template**
 2.	Lengkapi data **TemplatePebDetail.csv**
-3.	Setelah melengkapi data **TemplatePebDetail.csv** bisa diimport menggunakan tombol **Import**
+3.	Setelah melengkapi data **TemplatePebDetail.csv** bisa diimpor menggunakan tombol **Import**
 4.	Apabila pengisian sudah benar, maka detil barang akan terbentuk sesuai dengan data yang diisikan di **TemplatePebDetail**
 5.	Jika ingin mengubah data detail tersebut dapat menekan tombol **Pensil** yang ada di sebelah kanan row per detil barang tersebut
 6.	Jika ingin menghapus detil yang diinginkan bisa menggunakan tombol **Tong Sampah** yang ada di sebelah kanan row per detil barang tersebut, namun apabila ingin menghapus seluruh detil barang yang ada, bisa menggunakan tombol **Hapus Semua**
@@ -38,7 +38,7 @@ Untuk melakukan input dokumen terbagi menjadi dua cara yaitu:
     1. **JenisDokumen** diisikan dengan angka type Dokumen ( Ex: **380** untuk **Invoice**)
     2. **Tanggal** diisikan dengan format tanggal **dd/mm/yyyy** atau **yyyy-mm-dd**
     3. **KantorKPBC** diisikan dengan kode KPBC ( Ex: **040100** untuk **KPBC Tanjung Priok 1**)
-4.	Setelah **TemplatePebDocument** sudah lengkap, user dapat menggunakan tombol **Import** untuk mengimport data tersebut.
+4.	Setelah **TemplatePebDocument** sudah lengkap, user dapat menggunakan tombol **Import** untuk mengimpor data tersebut.
 5.	Apabila pengisian **TemplatePebDocument** sudah benar, maka data template tersrbut akan muncul pada **tab Dokumen**
 
 ### Manual

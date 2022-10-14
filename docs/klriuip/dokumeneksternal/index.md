@@ -12,7 +12,7 @@ Apabila pembeli telah membuat dokumen **Purchase Order**, maka user akan melihat
 ## Shipment
 Apabila user ingin mengirimkan barang untuk memenuhi **Purchase Order** yang diterima, maka user dapat membuat dokumen di menu **Shipment**.
 
-#### a. Via Import Template
+### Via Impor Template
 Untuk melakukan pembuatan dokumen Shipment user bisa menggunakan template yang sudah disedikan.
 
 1.	Klik tombol **Template**
@@ -27,7 +27,7 @@ Untuk melakukan pembuatan dokumen Shipment user bisa menggunakan template yang s
 10.	Apabila sudah selesai, maka dokumen Shipment tersebut akan berstatus **Ready**
 11.	Setelah Pengusaha KB memproses **Shipment** yang dikirimkan dan sudah membuat dokumen PIB nya, maka status dokumen Shipment tersebut akan menjadi **Converted to PIB**
 
-#### b. Via Tambah Baru
+### Via Tambah Baru
 Untuk melakukan pembutan dokumen manual, user bisa menggunakan tombol **Tambah Baru** untuk pembuatan dokumen.
 
 1.	Klik tombol **Tambah Baru**

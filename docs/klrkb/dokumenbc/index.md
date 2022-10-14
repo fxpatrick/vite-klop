@@ -21,7 +21,7 @@ Untuk melakukan input detil barang terbagi menjadi beberapa cara yaitu:
 ### a. Via Template
 1.	Klik Tombol **Template**
 2.	Lengkapi data **TemplateBc27Detail.csv**
-3.	Setelah melengkapi data **TemplateBc27Detail.csv** bisa diimport menggunakan tombol **Import**
+3.	Setelah melengkapi data **TemplateBc27Detail.csv** bisa diimpor menggunakan tombol **Import**
 4.	Apabila pengisian sudah benar, maka detil barang akan terbentuk sesuai dengan data yang diisikan di **TemplateBc27Detail**
 5.	Jika ingin mengubah data detail tersebut dapat menekan tombol **Pensil** yang ada di sebelah kanan row per detil barang tersebut
 6.	Jika ingin menghapus detil yang diinginkan bisa menggunakan tombol **Tong Sampah** yang ada di sebelah kanan row per detil barang tersebut, namun apabila ingin menghapus seluruh detil barang yang ada, bisa menggunakan tombol **Hapus Semua**
@@ -39,7 +39,7 @@ Untuk melakukan input detil barang terbagi menjadi beberapa cara yaitu:
         - Per Satuan digunakan apabila user tidak bisa melengkapi Purchase Order tersebut secara langsung, atau hanya ingin mengirimkan barang tertentu saja
     1. 	**Per Nomor PO**
         - Per Nomor PO digunakan apabila user ingin menyelesaikan per Purchase Order tersebut, maka user bisa menggunakan menu per Nomor PO
-4.	Setelah user menggunakan Per Satuan atau Per Nomor PO, maka untuk barang Purchase Order tersebut akan muncul di tab detail, dan apabila menekan tombol Pensil per detil barang, kita bisa meilhat nomor Purchase Order nya, apabila detil barang tersebut bersal dari Purchase Order
+4.	Setelah user menggunakan Per Satuan atau Per Nomor PO, maka untuk barang Purchase Order tersebut akan muncul di tab detail, dan apabila menekan tombol Pensil per detil barang, kita bisa meilhat nomor Purchase Order nya, apabila detil barang tersebut berasal dari Purchase Order
 
 ### Input Bahan Baku
 1.	Klik tombol **Tambah Baru**
@@ -57,7 +57,7 @@ Untuk melakukan input dokumen terbagi menjadi dua cara yaitu:
 -	**JenisDokumen** diisikan dengan angka type Dokumen ( Ex: **380** untuk Invoice)
 -	**Tanggal** diisikan dengan format tanggal **dd/mm/yyyy** atau **yyyy-mm-dd**
 -	**KantorKPBC** diisikan dengan kode KPBC ( Ex: **040100** untuk KPBC Tanjung Priok 1)
-4.	Setelah **TemplateDocument** sudah lengkap, user dapat menggunakan tombol **Import** untuk mengimport data tersebut.
+4.	Setelah **TemplateDocument** sudah lengkap, user dapat menggunakan tombol **Import** untuk mengimpor data tersebut.
 5.	Apabila pengisian **TemplateDocument** sudah benar, maka data template tersrbut akan muncul pada tab dokumen
 
 ### b. Manual

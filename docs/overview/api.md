@@ -3,7 +3,7 @@
 ## API Key
 Untuk mendapatkan **API Key**, Anda dapat mengikuti langkah di bawah ini
 ::: info
-Silahkan pastikan Anda sudah memiliki Akun dan Perusahaan yang terdaftar pada Klearance
+Silahkan pastikan Anda sudah memiliki **Akun dan Perusahaan** yang terdaftar pada **Klearance One Portal**
 :::
 
 1.	Klik **Username** Anda pada bagian pojok kanan atas
@@ -16,7 +16,7 @@ jika tombol **Buat API Key** diklik untuk kedua kalinya, maka API Key sebelumnya
 :::
 
 ## Header Paramater
-1.	Kunjungi [Klearance API Technical Documentation](https://dev.api.klearance.online/redoc)
+1.	Kunjungi [Klearance API Technical Documentation](https://dev-api.klearance.online/redoc)
 2.  Pada bagian **Authorizations** klik tombol panah
 3.	Copy nama parameter pada **Header Paramater Name**
 
@@ -24,7 +24,7 @@ jika tombol **Buat API Key** diklik untuk kedua kalinya, maka API Key sebelumnya
 ### Url
 |Method	|Url                                                         |
 |:-------|:------------------------------------------------------------|
-|POST	|https://dev.api.klearance.online/{tenantcode}/Account/upload|
+|POST	|https://dev-api.klearance.online/{tenantcode}/Account/upload|
 
 Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan nama perusahaan, untuk mendapatkan nama perusahan, user dapat melakukan:
 1.	Klik **Username** anda
@@ -95,7 +95,7 @@ Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan na
 
 |Method	|Url                                                         |
 |:------|:----------------------------------------------------------|
-|POST	|https://dev.api.klearance.online/{tenantcode}/Product/upload|
+|POST	|https://dev-api.klearance.online/{tenantcode}/Product/upload|
 
 Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan nama perusahaan, untuk mendapatkan nama perusahan, user dapat melakukan:
 1.	Klik **Username** anda
@@ -186,7 +186,7 @@ Apabila ingin menambahkan mapping menjadi dua atau lebih, user dapat menyalin is
 
 |Method	|Url|
 |:------|:----|
-|POST	|https://dev.api.klearance.online/{tenantcode}/PurchaseOrder/upload|
+|POST	|https://dev-api.klearance.online/{tenantcode}/PurchaseOrder/upload|
 
 Metode yang digunakan adalah POST, untuk {tenantcode} sendiri diisikan dengan nama perusahaan, untuk mendapatkan nama perusahan, user dapat melakukan:
 1.	Klik **Username** anda

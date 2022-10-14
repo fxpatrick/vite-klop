@@ -17,10 +17,10 @@ Untuk melakukan input detil barang terbagi menjadi beberapa cara yaitu:
     1. **Negara** harus diisikan dengan kode negara ( Ex: **ID** untuk **Indonesia**)
     2. **KondisiBarang** diisikan dengan angka **1** untuk **Barang Baru** dan **2** untuk **Barang Bukan Baru**
     3. **NilaiVD & TanggalJatuhTempo** hanya diisikan apabila jenis transaksinya adalah **PRO** dan **ROY**
-4.	Setelah melengkapi data **TemplatePibDetail.csv** bisa diimport menggunakan tombol **Import**
+4.	Setelah melengkapi data **TemplatePibDetail.csv** bisa diimpor menggunakan tombol **Import**
 5.	Apabila pengisian sudah benar, maka detil barang akan terbentuk sesuai dengan data yang diisikan di **TemplatePibDetail**
 6.	Jika ingin mengubah data detail tersebut dapat menekan tombol **Pensil** yang ada di sebelah kanan row per detil barang tersebut
-7.	Jika ingin menghapus detil yang diinginkan bisa menggunakan tombol **Tong Sampah** yang ada di sebelah kanan row per detil barang tersebut, namun apabila ingin menghapus seluruh detil barang yang ada, bisa menggunakan tomol **Hapus Semua**
+7.	Jika ingin menghapus detil yang diinginkan bisa menggunakan tombol **Tong Sampah** yang ada di sebelah kanan row per detil barang tersebut, namun apabila ingin menghapus seluruh detil barang yang ada, bisa menggunakan tobmol **Hapus Semua**
 8.	Apabila ingin mengisikan bea tambahan seperti **BM Anti Dumping, BM Tindak Pengaman, BM Imbalan, dan BM Pembalasan**, bisa dengan menekan tombol **Pensil** pada detil barang yang diinginkan, lalu menekan tombol **Isi Bea Masuk Tambahan**
 
 ### Manual
@@ -30,8 +30,8 @@ Untuk melakukan input detil barang terbagi menjadi beberapa cara yaitu:
 4.	Setelah seluruh data sudah lengkap bisa menekan tombol **Simpan**
 5.	Setelah itu akan muncul 3 tab baru untuk mengisikan **tab Jenis Transaksi, Fasilitas, dan Lartas**
 6.	Untuk mengisikan jenis transaksi, user bisa menekan tombol **Tambah Jenis Transaksi**, untuk jenis transaksi **PRO** dan **ROY**, wajib mengisikan **Jumlah dan Tanggal Pengajuan**.
-7.	Untuk mengisikan fasilitas, user bisa menekan tombol **Menghubungkan Dokumen Fasilitas**, jenis dokumen yang dapat dihubungkan dengan fasilitas memiliki beberapa jenis yang nantinya akan di jelaskan pada bagian [Jenis Dokumen Fasilitas](/klriuip/dokumeninternal/#dokumen-pelengkap-detail-barang)
-8.	Untuk mengisikan lartas, user bisa menekan tombol **Menghubungkan Dokumen Lartas**, jenis dokumen yang dapat dihubungkan dengan lartas memiliki beberapa jenis yang nantinya akan di jelaskan pada bagian [Jenis Dokumen Lartas](/klriuip/dokumeninternal/#dokumen-pelengkap-detail-barang)
+7.	Untuk mengisikan fasilitas, user bisa menekan tombol **Menghubungkan Dokumen Fasilitas**, jenis dokumen yang dapat dihubungkan dengan fasilitas memiliki beberapa jenis yang nantinya akan di jelaskan pada bagian **Jenis Dokumen Fasilitas** [ klik disini](/klriuip/dokumeninternal/#dokumen-pelengkap-detail-barang)
+8.	Untuk mengisikan lartas, user bisa menekan tombol **Menghubungkan Dokumen Lartas**, jenis dokumen yang dapat dihubungkan dengan lartas memiliki beberapa jenis yang nantinya akan di jelaskan pada bagian **Jenis Dokumen Lartas** [ klik disini](/klriuip/dokumeninternal/#dokumen-pelengkap-detail-barang)
 ::: warning
 Jenis dokumen fasilitas & lartas harus di tambahkan terlebih dahulu pada **tab Dokumen** sebelum bisa ditambahkan pada detail barang
 :::
@@ -61,7 +61,7 @@ Untuk melakukan input dokumen terbagi menjadi dua cara yaitu:
     1. **JenisDokumen** diisikan dengan angka type Dokumen ( Ex: **380** untuk **Invoice**)
     2. **Tanggal** diisikan dengan format tanggal **dd/mm/yyyy** atau **yyyy-mm-dd**
     3. **KantorKPBC** diisikan dengan kode KPBC ( Ex: **040100** untuk **KPBC Tanjung Priok 1**)
-4.	Setelah **TemplatePibDocument** sudah lengkap, user dapat menggunakan tombol **Import** untuk mengimport data tersebut.
+4.	Setelah **TemplatePibDocument** sudah lengkap, user dapat menggunakan tombol **Import** untuk mengimpor data tersebut.
 5.	Apabila pengisian **TemplatePibDocument** sudah benar, maka data template tersrbut akan muncul pada **tab Dokumen**
 
 ### Manual

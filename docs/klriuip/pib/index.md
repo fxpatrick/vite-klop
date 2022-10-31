@@ -1,5 +1,5 @@
 # PIB
-![](2022-10-31-11-09-58.png)
+![](4.svg)
 Saat ini anda berada diproses nomor 4, dimana setelah user **Eksternal** selesai melakukan pembuatan dokumen Shipment, maka selanjutnya user **Internal** bisa melakukan pengisian dokumen **PIB**, untuk pengisian dokumen **PIB** terbagi menjadi 6 bagian, yaitu sebagai berikut:
 
 ## Input Header

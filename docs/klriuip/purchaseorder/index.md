@@ -1,5 +1,5 @@
 # Purchase Order
-![](2022-10-14-17-49-29.png)
+![](1.svg)
 Saat ini Anda sedang berada di proses nomor 1, yaitu user **Internal** akan melakukan pembuatan **Purchase Order**, yang nantinya akan dikirimkan ke pihak **Eksternal** berdasarkan vendor yang dipilih.
 
 # Pembuatan Purchase Order

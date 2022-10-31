@@ -1,5 +1,5 @@
 # Shipment
-![](2022-10-31-11-07-18.png)
+![](3.svg)
 Saat ini anda sedang berada di proses nomor 3, setelah user **Internal** selesai melakukan pembuatan **Purchase Order**, berikutnya user **Eksternal** akan melakukan pembuatan dokumen **Shipment** atas **Purchase Order** yang telah dibuat oleh user **Internal**, berikut ini adalah panduan untuk user **Internal** dalam melakukan pengecekan dokumen **Shipment**, yaitu sebagai berikut:
 
 ## Pengecekan Status Dokumen

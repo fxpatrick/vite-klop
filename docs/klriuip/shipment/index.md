@@ -1,5 +1,6 @@
 # Shipment
-Setelah user **Internal** selesai melakukan pembuatan **Purchase Order**, berikutnya user **Eksternal** akan melakukan pembuatan dokumen **Shipment** atas **Purchase Order** yang telah dibuat oleh user **Internal**, berikut ini adalah panduan untuk user **Internal** dalam melakukan pengecekan dokumen **Shipment**, yaitu sebagai berikut:
+![](3.svg)
+Saat ini anda sedang berada di proses nomor 3, setelah user **Internal** selesai melakukan pembuatan **Purchase Order**, berikutnya user **Eksternal** akan melakukan pembuatan dokumen **Shipment** atas **Purchase Order** yang telah dibuat oleh user **Internal**, berikut ini adalah panduan untuk user **Internal** dalam melakukan pengecekan dokumen **Shipment**, yaitu sebagai berikut:
 
 ## Pengecekan Status Dokumen
 Ketika user **Eksternal** sedang memproses dokumen **Purchase Order** yang telah dibuat oleh user **Internal**, maka dokumen **Shipment** yang dibuat oleh pihak **Eksternal**, akan muncul pada menu **Shipment**, dan user **Internal** dapat melihat status dari dokumen **Shipment** tersebut beserta nomor **Purchase Order** yang digunakan, ada 3 status dokumen yaitu sebagai berikut:

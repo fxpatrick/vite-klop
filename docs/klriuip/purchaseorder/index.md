@@ -1,6 +1,9 @@
 # Purchase Order
-Berikut ini adalah panduan untuk user **Internal** dalam melakukan pembuatan **Purchase Order**, ada 3 cara dalam melakukan pembuatan dokumen **Purchase Order**, yaitu sebagai berikut ini:
+![](1.svg)
+Saat ini Anda sedang berada di proses nomor 1, yaitu user **Internal** akan melakukan pembuatan **Purchase Order**, yang nantinya akan dikirimkan ke pihak **Eksternal** berdasarkan vendor yang dipilih.
 
+# Pembuatan Purchase Order
+Berikut ini adalah panduan untuk user **Internal** dalam melakukan pembuatan **Purchase Order**, ada 3 cara dalam melakukan pembuatan dokumen **Purchase Order**, yaitu sebagai berikut ini:
 ## Via API
 Apabila user **Internal** sudah memiliki **ERP (*Enterprise Resource Planning*)**, maka user bisa mengirimkan informasi **Purchase Order** tersebut menggunakan **API** yang sudah disediakan pada **Klearance One Portal**, untuk panduan dalam menggunakan **API**[ klik disini](/overview/api)
 

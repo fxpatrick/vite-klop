@@ -24,7 +24,10 @@ Perhatikan jangan mendaftarkan perusahaan anda dengan spasi
 
 
 ## Membuat Dokumen Wajib Vendor
-Untuk Dokumen Vendor ini berguna sebagai Dokumen apa saja yang harus dilengkapi oleh supplier ketika melengkapi Purchase Order, [Dokumen Wajib Vendor](/overview/dokumenwajibvendor.html#pembuatan-dokumen-wajib-vendor)
+Untuk Dokumen Vendor ini berguna sebagai Dokumen apa saja yang harus dilengkapi oleh supplier ketika melengkapi Purchase Order, untuk pembuatan **Dokumen Wajib Vendor** [klik disini](/overview/dokumenwajibvendor.html#pembuatan-dokumen-wajib-vendor)
+
+## Membuat Dokumen Format
+Untuk **Dokumen Format** ini beguna sebagai pengisian **Nomor Aju** secara otomatis, dan dapat diatur untuk urutan terakhir nomor aju nya, untuk panduan dalam pembuatan **Dokumen Format** [klik disini](/overview/formatdokumen)
 
 ## Group Akses
 Untuk menentukan user internal dalam melihat akses data, user dapat membuat group yang nantinya akan memberikan hakakses untuk setiap user nya, dengan cara sebagai berikut:
@@ -42,8 +45,9 @@ Hak Akses digunakan untuk membatasi akses dari user, untuk mengakses data - data
 
 ## Mengundang Vendor
 Untuk mengundang vendor sebagai user kawasan berikat dan user iuip berbeda, user dapat melakukan klik link yang sudah disediakan berikut ini:
-1. [Kawasan Berikat](/klrkb/mengundangvendorkb/#mengundang-vendor) 
-2. [IUIP](/klriuip/mengundangvendoriuip/#mengundang-vendor)
+1. Untuk panduan **Kawasan Berikat** user bisa [klik disini](/klrkb/mengundangvendorkb/#mengundang-vendor) 
+2. Untuk panduan **IUIP** user bisa [klik disini](/klriuip/mengundangvendoriuip/#mengundang-vendor)
 
 ## Login Sebagai Eksternal
-1. [User Eksternal](/klriuip/usereksternal/)
+Berikut ini hanyalah informasi apabila user ingin mengetahui proses yang akan dilakukan oleh pihak **Eksternal**
+1. Untuk panduan user **Eksternal**, user bisa [klik disini](/klriuip/usereksternal/)

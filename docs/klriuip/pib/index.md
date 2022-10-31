@@ -1,5 +1,6 @@
 # PIB
-Pengisian dokumen PIB terbagi menjadi 6 bagian, yaitu sebagai berikut:
+![](2022-10-31-11-09-58.png)
+Saat ini anda berada diproses nomor 4, dimana setelah user **Eksternal** selesai melakukan pembuatan dokumen Shipment, maka selanjutnya user **Internal** bisa melakukan pengisian dokumen **PIB**, untuk pengisian dokumen **PIB** terbagi menjadi 6 bagian, yaitu sebagai berikut:
 
 ## Input Header
 Untuk melakukan input header adalah sebagai berikut:
@@ -30,8 +31,8 @@ Untuk melakukan input detil barang terbagi menjadi beberapa cara yaitu:
 4.	Setelah seluruh data sudah lengkap bisa menekan tombol **Simpan**
 5.	Setelah itu akan muncul 3 tab baru untuk mengisikan **tab Jenis Transaksi, Fasilitas, dan Lartas**
 6.	Untuk mengisikan jenis transaksi, user bisa menekan tombol **Tambah Jenis Transaksi**, untuk jenis transaksi **PRO** dan **ROY**, wajib mengisikan **Jumlah dan Tanggal Pengajuan**.
-7.	Untuk mengisikan fasilitas, user bisa menekan tombol **Menghubungkan Dokumen Fasilitas**, jenis dokumen yang dapat dihubungkan dengan fasilitas memiliki beberapa jenis yang nantinya akan di jelaskan pada bagian **Jenis Dokumen Fasilitas** [ klik disini](/klriuip/dokumeninternal/#dokumen-pelengkap-detail-barang)
-8.	Untuk mengisikan lartas, user bisa menekan tombol **Menghubungkan Dokumen Lartas**, jenis dokumen yang dapat dihubungkan dengan lartas memiliki beberapa jenis yang nantinya akan di jelaskan pada bagian **Jenis Dokumen Lartas** [ klik disini](/klriuip/dokumeninternal/#dokumen-pelengkap-detail-barang)
+7.	Untuk mengisikan fasilitas, user bisa menekan tombol **Menghubungkan Dokumen Fasilitas**, jenis dokumen yang dapat dihubungkan dengan fasilitas memiliki beberapa jenis yang nantinya akan di jelaskan pada bagian **Jenis Dokumen Fasilitas** [ klik disini](/klriuip/pib/#jenis-dokumen-fasilitas)
+8.	Untuk mengisikan lartas, user bisa menekan tombol **Menghubungkan Dokumen Lartas**, jenis dokumen yang dapat dihubungkan dengan lartas memiliki beberapa jenis yang nantinya akan di jelaskan pada bagian **Jenis Dokumen Lartas** [ klik disini](/klriuip/pib/#jenis-dokumen-lartas)
 ::: warning
 Jenis dokumen fasilitas & lartas harus di tambahkan terlebih dahulu pada **tab Dokumen** sebelum bisa ditambahkan pada detail barang
 :::

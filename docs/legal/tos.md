@@ -25,7 +25,8 @@ Jika Anda tidak setuju dengan (atau tidak dapat mematuhi) Perjanjian, maka Anda 
    * Mengunggah Data yang bersifat bertentangan dengan hukum
    * Aktifitas berisiko tinggi lainnya yang dapat membahayakan Kami
 4. Kami memberikan jaminan bahwa Layanan Kami dapat digunakan dan diakses sampai dengan 90% dari total waktu yang ada selama 1 tahun.
-5. Atas penggunaan Layanan, Anda hanya dapat mengunggah dokumen sampai dengan 5 MB untuk 1 dokumen pelengkap
+5. Atas penggunaan Layanan, Anda hanya dapat mengunggah dokumen sampai dengan 5 MB untuk 1 dokumen pelengkap.
+6. Atas setiap permasalahan yang terjadi Kami akan memberikan solusi atas masalah tersebut selambat - lambatnya dalam waktu 2 x 24 jam.
 
 ## Pasal 2. Kepemilikan Kekayaan Intelektual
 1. Terhadap Layanan yang diberikan kepada Anda, Kami memiliki kepemilikan utuh atas segala kekayaan intelektual, termasuk juga semua perbaikan, peningkatan , modifikasi, dan turunan lainnya yang berkaitan dengan Layanan Kami.

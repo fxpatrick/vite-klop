@@ -11,7 +11,7 @@ Klearance One Portal akan berkolaborasi erat dengan CDMS Kawasan Berikat yang di
 6. Bea Cukai setempat dapat melakukan pengecekan IT Inventory perusahaan
 
 ## Klearance One Portal
-![](2022-07-22-14-05-16.png)
+![](klearencekbfoto.svg)
 1. Vendor Dalam Negeri akan melakukan pembuatan dokumen shipment pada KOP dan selanjutnya akan dikonversi menjadi BC 4.0 pada CDMS KB
 2. Vendor Luar Negeri akan melakukan pembuatan dokumen shipment pada KOP dan selanjutnya akan dikonversi menjadi BC 2.3 pada CDMS KB
 3. Vendor Kawasan Berikat akan membuat BC 2.7 pada KOP kemudian 

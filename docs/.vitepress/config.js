@@ -48,6 +48,7 @@ export default defineConfig({
           items: [
             { text: 'Barang', link: '/overview/barang' }, 
             { text: 'Dokumen Wajib Vendor', link: '/overview/dokumenwajibvendor' },
+            { text: 'PO Exception', link: '/overview/poexception' },
           ]
         },
         {

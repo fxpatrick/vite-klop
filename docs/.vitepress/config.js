@@ -4,7 +4,7 @@ export default defineConfig({
   lang: 'id-ID',
   title: 'Klearance Online',
   description: 'Aplikasi Pelaporan Bea Cukai',
-  head:[['link', { rel: "shortcut icon", href: "/klearancelogo.ico"}]],
+  head:[['link', { rel: "shortcut icon", href: "/favico.ico"}]],
 
   lastUpdated: true,
   locales: {
@@ -18,7 +18,7 @@ export default defineConfig({
     }
   },
   themeConfig: {
-    logo: '/klearancelogo.png',
+    logo: '/klearancelogo.svg',
     siteTitle: false,
         localeLinks: {
       text: '',

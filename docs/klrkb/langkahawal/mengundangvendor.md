@@ -1,5 +1,6 @@
 # Mengundang Vendor
-Untuk vendor sendiri terbagi menjadi dua, yaitu **Vendor Luar Negeri & Dalam Negeri** dan **Vendor Kawasan Berikat**, untuk mengundang masing- masing vendor ini juga berbeda, akan di jelaskan sebagai berikut:
+Ketika sudah melakukan pendaftaran dan sudah berhasil melakukan pengaturan akun, setiap vendor bisa mengundang juga vendor lainya.
+Untuk mengundang vendor sendiri terbagi menjadi dua, yaitu **Vendor Luar Negeri & Dalam Negeri** dan **Vendor Kawasan Berikat**, untuk mengundang masing- masing vendor ini juga berbeda, akan di jelaskan sebagai berikut:
 
 ## Vendor Luar Negeri & Dalam Negeri
 1.	Klik menu **Administrasi**

@@ -5,7 +5,9 @@ export default defineConfig({
   title: 'Klearance Online',
   description: 'Aplikasi Pelaporan Bea Cukai',
   head:[['link', { rel: "shortcut icon", href: "/favico.ico"}]],
-
+  editLink: {
+    pattern: 'https://github.com/fxpatrick/vite-klop/edit/main/docs/:path'
+  },
   lastUpdated: true,
   locales: {
     '/': {
@@ -71,7 +73,11 @@ export default defineConfig({
         {
           text: 'Langkah Awal',
           items: [
-            { text: 'Mengundang Vendor', link: '/klrkb/mengundangvendorkb/' }, 
+            { text: 'Pendaftaran', link: '/klrkb/langkahawal/pendaftaran' }, 
+            { text: 'Setup Akun', link: '/klrkb/langkahawal/setupakun' }, 
+            { text: 'Pembuatan BC 2.7', link: '/klrkb/langkahawal/pembuatanbc27' },
+            { text: 'Mengundang Vendor', link: '/klrkb/langkahawal/mengundangvendor' }, 
+
           ]
         },
         {
@@ -128,7 +134,7 @@ export default defineConfig({
 function nav() {
   return [
     { text: 'Overview', link: '/overview/klearance', activeMatch: '/overview/klearance' },
-    { text: 'Klearance KB', link: '/klrkb/mengundangvendorkb/', activeMatch: '/klrkb' },
+    { text: 'Klearance KB', link: '/klrkb/langkahawal/mengundangvendor', activeMatch: '/klrkb' },
     { text: 'Klearance IU/IP', link: '/klriuip/mengundangvendoriuip/', activeMatch: '/klriuip' },
     { text: 'Term of Services', link: '/legal/tos', activeMatch: '/legal/tos' },
   ]

@@ -77,6 +77,7 @@ export default defineConfig({
             { text: 'Setup Akun', link: '/klrkb/langkahawal/setupakun' }, 
             { text: 'Pembuatan BC 2.7', link: '/klrkb/langkahawal/pembuatanbc27' },
             { text: 'Mengundang Vendor', link: '/klrkb/langkahawal/mengundangvendor' }, 
+            { text: '2 Faktor Autentikasi', link: '/klrkb/2fa' }, 
 
           ]
         },

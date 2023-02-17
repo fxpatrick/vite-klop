@@ -1,6 +1,9 @@
 # Mengatur Akun
 Sebelum dapat melakukan pembuatan BC 2.7, Anda diwajibkan untuk melakukan pengaturan akun terlebih dahulu
 
+## Pengaturan Versi TPB & ID Module TPB
+Untuk melakukan pengaturan versi TPB user bisa [klik disini](https://scribehow.com/shared/Klearance_Workflow__OWyPSlm-Q9K5resdfz7Z-w)
+
 ## Masukan format nomor aju
 https://scribehow.com/shared/Create_Document_Format_Nomor_Aju__5FW8mNVTRHayNyQMt9e-tQ
 

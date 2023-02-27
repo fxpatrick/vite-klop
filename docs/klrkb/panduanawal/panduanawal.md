@@ -1,5 +1,5 @@
 # Panduan Awal
-![](Flow%20KB%20Supplier.svg)
+![](Flowkbsupplier.svg)
 
 ## Pendaftaran
 Sebelum menggunakan KLOP, maka setiap Customer ataupun Supplier, harus mendaftarkan perusahaannya pada KLOP terlebih dahulu. Untuk melakukan pendaftaran pada KLOP maka Bapak Ibu bisa mengikuti panduan dibawah ini:

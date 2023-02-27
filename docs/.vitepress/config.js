@@ -71,15 +71,17 @@ export default defineConfig({
       ],
       '/klrkb/': [
         {
+          text: 'Panduan Awal',
+          items: [
+            { text: 'Panduan Awal', link: '/klrkb/panduanawal/panduanawal' },
+          ]
+        },
+        {
           text: 'Langkah Awal',
           items: [
-            { text: 'Pendaftaran', link: '/klrkb/langkahawal/pendaftaran' }, 
-            { text: 'Setup Akun', link: '/klrkb/langkahawal/setupakun' }, 
-            { text: 'Proses Pembuatan Pada Vendor', link: '/klrkb/langkahawal/pembuatandokumen' }, 
-            { text: 'Pembuatan BC 2.7', link: '/klrkb/langkahawal/pembuatanbc27' },
+            { text: 'Format Dokumen', link: '/klrkb/langkahawal/formatdokumen' }, 
             { text: 'Mengundang Vendor', link: '/klrkb/langkahawal/mengundangvendor' }, 
             { text: '2 Faktor Autentikasi', link: '/klrkb/2fa' }, 
-
           ]
         },
         {
@@ -136,7 +138,7 @@ export default defineConfig({
 function nav() {
   return [
     { text: 'Overview', link: '/overview/klearance', activeMatch: '/overview/klearance' },
-    { text: 'Klearance KB', link: '/klrkb/langkahawal/pendaftaran', activeMatch: '/klrkb' },
+    { text: 'Klearance KB', link: '/klrkb/panduanawal/panduanawal', activeMatch: '/klrkb' },
     { text: 'Klearance IU/IP', link: '/klriuip/mengundangvendoriuip/', activeMatch: '/klriuip' },
     { text: 'Term of Services', link: '/legal/tos', activeMatch: '/legal/tos' },
   ]

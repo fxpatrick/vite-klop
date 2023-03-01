@@ -7,9 +7,7 @@ Sebelum menggunakan KLOP, maka setiap Customer ataupun Supplier, harus mendaftar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cgDFCgkECps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 :::info
-Apabila perusahaan Bapak Ibu adalah GB, maka ketika pendaftaran tetap memilih KB, namun apabila perusahaan Bapak Ibu memiliki 2 yaitu KB & GB, maka Bapak Ibu bisa mengikuti tutorial video dibawah ini:
-
-
+Apabila perusahaan Bapak Ibu adalah GB, maka ketika pendaftaran tetap memilih KB, namun apabila perusahaan Bapak Ibu memiliki 2 yaitu KB & GB, maka Bapak Ibu bisa mengikuti tutorial video berikut ini: [klik disini](https://www.youtube.com/watch?v=Rvtj7zaURjo&feature=youtu.be)
 :::
 
 ## Menyambungkan Perusahaan

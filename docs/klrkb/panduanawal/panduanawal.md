@@ -2,13 +2,24 @@
 ![](Flowkbsupplier.svg)
 
 ## Pendaftaran
-Sebelum menggunakan KLOP, maka setiap Customer ataupun Supplier, harus mendaftarkan perusahaannya pada KLOP terlebih dahulu. Untuk melakukan pendaftaran pada KLOP maka Bapak Ibu bisa mengikuti panduan dibawah ini:
+Sebelum menggunakan KLOP, maka setiap Customer ataupun Supplier, harus mendaftarkan perusahaannya pada KLOP terlebih dahulu. Untuk melakukan pendaftaran pada KLOP maka Bapak Ibu bisa menuju [app.klearance.online](https://app.klearance.online/)
+
+### 
+Pastikan ketika melakukan pendaftaran, Bapak Ibu mengisikan data perusahaan sudah sama dengan data yang ada pada menu About pada TPB CEISA
+###
+Masuk ke TPB CEISA perusahaan Anda kemudian cari menu <b>About</b>
+![](2023-01-19-13-54-34.png)
+###
+![](2023-01-19-13-55-45.png)
+
+Berikut ini video panduan untuk pendaftaran:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cgDFCgkECps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 :::info
-Apabila perusahaan Bapak Ibu adalah GB, maka ketika pendaftaran tetap memilih KB, namun apabila perusahaan Bapak Ibu memiliki 2 yaitu KB & GB, maka Bapak Ibu bisa mengikuti tutorial video berikut ini: [klik disini](https://www.youtube.com/watch?v=Rvtj7zaURjo&feature=youtu.be)
+Apabila perusahaan Bapak Ibu adalah GB, maka ketika pendaftaran tetap memilih KB, namun apabila perusahaan Bapak Ibu memiliki 2 yaitu KB & GB, maka Bapak Ibu bisa mengikuti tutorial video berikut ini: [klik disini](https://www.youtube.com/watch?v=Rvtj7zaURjo)
 :::
+
 
 ## Menyambungkan Perusahaan
 Sebelum Bapak Ibu bisa menerima PO dari Customer atau mengirimkan PO ke Supplier, maka Bapak Ibu perlu menghubungkan perusahaan Bapak Ibu terleih dahulu.
@@ -24,9 +35,8 @@ Setelah perusahaan Bapak Ibu berhasil terhubung dengan Customer, maka berikutnya
 ### Setup Id Modul & Versi TPB
 Untuk melakukan pengaturan Id Modul & Versi TPB user bisa [klik disini](https://scribehow.com/shared/Klearance_Workflow__OWyPSlm-Q9K5resdfz7Z-w)
 
-### Pastikan akun sudah sama dengan bagian about pada TPB CEISA
-![](2023-01-19-13-54-34.png)
-Masuk ke TPB CEISA perusahaan Anda kemudian cari menu <b>about</b>
+### Format Dokumen
+
 
 ## Pengecekan Customer PO
 Pastikan Bapak Ibu, melakukan pengecekan pada menu Customer PO, untuk mengetahui PO yang terbaru dan PO mana saja yang masih belum diselesaikan. Untuk lebih lengkapnya Bapak Ibu bisa melihat video berikut ini:

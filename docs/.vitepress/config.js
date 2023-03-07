@@ -74,12 +74,12 @@ export default defineConfig({
           text: 'Panduan Awal',
           items: [
             { text: 'Panduan Awal', link: '/klrkb/panduanawal/panduanawal' },
+            { text: 'FAQs', link: '/klrkb/panduanawal/faqs' },
           ]
         },
         {
           text: 'Langkah Awal',
           items: [
-            { text: 'Format Dokumen', link: '/klrkb/langkahawal/formatdokumen' }, 
             { text: 'Mengundang Vendor', link: '/klrkb/langkahawal/mengundangvendor' }, 
             { text: '2 Faktor Autentikasi', link: '/klrkb/2fa' }, 
           ]

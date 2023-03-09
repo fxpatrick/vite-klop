@@ -1,10 +1,10 @@
 # Panduan Awal
-![](Flowkbsupplier.svg)
+![](Flowkbsupplierv2.svg)
 
 ## Pendaftaran
 Sebelum menggunakan KLOP, maka setiap Customer ataupun Supplier, harus mendaftarkan perusahaannya pada KLOP terlebih dahulu. Untuk melakukan pendaftaran pada KLOP maka Bapak Ibu bisa menuju [app.klearance.online](https://app.klearance.online/)
 
-### 
+###
 Pastikan ketika melakukan pendaftaran, Bapak Ibu mengisikan data perusahaan sudah sama dengan data yang ada pada menu About pada TPB CEISA
 ###
 Masuk ke TPB CEISA perusahaan Anda kemudian cari menu <b>About</b>

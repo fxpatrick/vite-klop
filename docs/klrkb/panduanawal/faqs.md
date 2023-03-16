@@ -23,4 +23,4 @@ KLOP sudah memfasilitasi untuk kejadian seperti ini, untuk lebih detilnya Bapak 
 Bisa, keputusan untuk pembuatan di KLOP ataupun TPB CEISA kita berikan kepada user, namun kita tetap menyarankan untuk melakukan pembuatan pada KLOP, dikarenakan apabila melakukan pembuatan pada KLOP, untuk pengisian Detail barang bisa otomatis terisi melalui data PO Customer, dan untuk pengisian Bahan Bakunya bisa menggunakan template, yang dimana akan sangat menghemat waktu dalam pembuatan dokumen BC
 
 ## Dokumen BC yang saya import ke KLOP ada kesalahan, dan sudah diperbaiki pada TPB CEISA, bagaimana cara memperbaiki dokumen yang sudah diimport ke KLOP?
-Apabila kondisi ini terjadi, Bapak Ibu bisa mengikuti panduan berikut ini [klik disini]()
+Apabila kondisi ini terjadi, Bapak Ibu bisa mengikuti panduan berikut ini [klik disini](https://app.klearance.online/)

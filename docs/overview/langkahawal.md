@@ -45,7 +45,7 @@ Hak Akses digunakan untuk membatasi akses dari user, untuk mengakses data - data
 
 ## Mengundang Vendor
 Untuk mengundang vendor sebagai user kawasan berikat dan user iuip berbeda, user dapat melakukan klik link yang sudah disediakan berikut ini:
-1. Untuk panduan **Kawasan Berikat** user bisa [klik disini](/klrkb/langkahawal/mengundangvendor) 
+1. Untuk panduan **Kawasan Berikat** user bisa [klik disini](/klrkb/lainnya/mengundangvendor) 
 2. Untuk panduan **IUIP** user bisa [klik disini](/klriuip/mengundangvendoriuip/#mengundang-vendor)
 
 ## Login Sebagai Eksternal

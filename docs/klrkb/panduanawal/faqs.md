@@ -1,8 +1,8 @@
 # FAQ's
-Seluruh pertanyaan yang sering sekali ditanyakan akan dilampirkan disini, mungkin ada pertanyan dari Bapak Ibu yang sudah ditanyakan, diharapkan pertanyaan dari Bapak Ibu bisa terjawab
+Seluruh pertanyaan yang sering sekali ditanyakan akan dilampirkan di sini, mungkin ada pertanyan dari Bapak Ibu yang sudah ditanyakan, diharapkan pertanyaan dari Bapak Ibu bisa terjawab
 
-## Apakah KLOP sudah terintegrasi dengan CIESA 4.0?
-Sudah, KLOP sudah tersambung dengan CEISA 4.0, Bapak Ibu bisa membuat dokumen BC pada KLOP, dan untuk Validasi, Kirim Respond, Tarik Respond & Print sudah bisa dilakukan melalui KLOP
+## Apakah KLOP sudah terintegrasi dengan CEISA 4.0?
+Sudah, KLOP sudah tersambung dengan CEISA 4.0, Bapak Ibu bisa membuat dokumen BC pada KLOP, dan untuk Validasi, Kirim Respond, Tarik Respon & Print sudah bisa dilakukan melalui KLOP
 
 ## Saat pendaftaran, bagaimana jika perusahaan saya GB?
 Saat pendaftaran, jika perusahaan Bapak Ibu adalah GB, maka saat memilih Type bisa diisikan dengan KB
@@ -21,3 +21,6 @@ KLOP sudah memfasilitasi untuk kejadian seperti ini, untuk lebih detilnya Bapak 
 
 ## Pembuatan BC saya masih manual, tetapi apakah saya harus tetap menggunakan KLOP? Apakah bisa nanti saya tetap bikin di TPB CEISA, lalu diimport saja dokumen BCnya?
 Bisa, keputusan untuk pembuatan di KLOP ataupun TPB CEISA kita berikan kepada user, namun kita tetap menyarankan untuk melakukan pembuatan pada KLOP, dikarenakan apabila melakukan pembuatan pada KLOP, untuk pengisian Detail barang bisa otomatis terisi melalui data PO Customer, dan untuk pengisian Bahan Bakunya bisa menggunakan template, yang dimana akan sangat menghemat waktu dalam pembuatan dokumen BC
+
+## Dokumen BC yang saya import ke KLOP ada kesalahan, dan sudah diperbaiki pada TPB CEISA, bagaimana cara memperbaiki dokumen yang sudah diimport ke KLOP?
+Apabila kondisi ini terjadi, Bapak Ibu bisa mengikuti panduan berikut ini [klik disini](https://app.klearance.online/)

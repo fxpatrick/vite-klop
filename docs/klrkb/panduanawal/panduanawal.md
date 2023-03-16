@@ -32,11 +32,32 @@ Apabila perusahaan Bapak Ibu sudah terhubung dengan Customer, maka email yang di
 ## Setup Akun
 Setelah perusahaan Bapak Ibu berhasil terhubung dengan Customer, maka berikutnya Bapak Ibu bisa melakukan setup akun terlebih dahulu, ada beberapa informasi penting yang nantinya akan digunakan saat pembuatan BC 2.7
 
-### Setup Id Modul & Versi TPB
-Untuk melakukan pengaturan Id Modul & Versi TPB user bisa [klik disini](https://scribehow.com/shared/Klearance_Workflow__OWyPSlm-Q9K5resdfz7Z-w)
-
-### Format Dokumen
-
+### Setup Akun Klearance
+![](2023-03-16-12-12-40.png)
+###
+Untuk melakukan pengaturan Bapak Ibu bisa klik yang ada pada gambar diatas
+###
+![](2023-03-16-12-15-10.png)
+###
+Dimohon Bapak Ibu melakukan pengisian Id Modul & Versi TPB, untuk mendapatkan informasi Id Modul & Versi TPB, Bapak Ibu bisa menuju TPB CEISA, lalu ke menu **About**
+###
+![](2023-01-19-13-54-34.png)
+###
+![](2023-01-19-13-55-45.png)
+###
+:::info
+Apabila Bapak Ibu sudah menggunakan CEISA 4.0, maka Bapak Ibu bisa mengisikan informasi username & password pada kolom CEISA 4.0
+:::
+###
+![](2023-03-16-12-18-42.png)
+###
+Pastikan Akun Default sudah sesuai dengan informasi about pada TPB CEISA, dan untuk Akun Terhubung sudah terisi dengan Akun Customer Bapak Ibu
+###
+![](2023-03-16-12-19-56.png)
+###
+Untuk Format Aju bisa kosongkan saja, karena system yang nanti akan membuatkan format ajunya, menggunakan informasi Id Modul & KPBC yang sudah diisikan pada Akun Default
+###
+Untuk Tujuan Pengiriman Bisa diisikan apabila Bapak Ibu ingin mengisikan default
 
 ## Pengecekan Customer PO
 Pastikan Bapak Ibu, melakukan pengecekan pada menu Customer PO, untuk mengetahui PO yang terbaru dan PO mana saja yang masih belum diselesaikan. Untuk lebih lengkapnya Bapak Ibu bisa melihat video berikut ini:

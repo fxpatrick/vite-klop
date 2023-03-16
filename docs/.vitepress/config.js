@@ -78,9 +78,9 @@ export default defineConfig({
           ]
         },
         {
-          text: 'Langkah Awal',
+          text: 'Lainnya',
           items: [
-            { text: 'Mengundang Vendor', link: '/klrkb/langkahawal/mengundangvendor' }, 
+            { text: 'Mengundang Vendor', link: '/klrkb/lainnya/mengundangvendor' }, 
             { text: '2 Faktor Autentikasi', link: '/klrkb/2fa' }, 
           ]
         },

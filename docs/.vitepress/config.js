@@ -4,7 +4,7 @@ export default defineConfig({
   lang: 'id-ID',
   title: 'Klearance Online',
   description: 'Aplikasi Pelaporan Bea Cukai',
-  head:[['link', { rel: "shortcut icon", href: "/favico.ico"}]],
+  head: [['link', { rel: "shortcut icon", href: "/favico.ico" }]],
   editLink: {
     pattern: 'https://github.com/fxpatrick/vite-klop/edit/main/docs/:path'
   },
@@ -22,7 +22,7 @@ export default defineConfig({
   themeConfig: {
     logo: '/klearancelogo.svg',
     siteTitle: false,
-        localeLinks: {
+    localeLinks: {
       text: '',
       items: [
         { text: 'English', link: '/en/' },
@@ -40,15 +40,15 @@ export default defineConfig({
         {
           text: 'Overview',
           items: [
-            { text: 'Klearance', link: '/overview/klearance' }, 
-            { text: 'Arsitektur', link: '/overview/arsitektur' }, 
-            { text: 'Langkah Awal', link: '/overview/langkahawal' }, 
+            { text: 'Klearance', link: '/overview/klearance' },
+            { text: 'Arsitektur', link: '/overview/arsitektur' },
+            { text: 'Langkah Awal', link: '/overview/langkahawal' },
           ]
         },
         {
           text: 'Master',
           items: [
-            { text: 'Barang', link: '/overview/barang' }, 
+            { text: 'Barang', link: '/overview/barang' },
             { text: 'Dokumen Wajib Vendor', link: '/overview/dokumenwajibvendor' },
             { text: 'PO Exception', link: '/overview/poexception' },
           ]
@@ -56,16 +56,16 @@ export default defineConfig({
         {
           text: 'Administrasi',
           items: [
-            { text: 'User', link: '/overview/user' }, 
-            { text: 'Group', link: '/overview/langkahawal.html#group-akses' }, 
-            { text: 'Format Dokumen', link: '/overview/formatdokumen' }, 
-            { text: 'Import Mapping', link: '/overview/importmapping' }, 
+            { text: 'User', link: '/overview/user' },
+            { text: 'Group', link: '/overview/langkahawal.html#group-akses' },
+            { text: 'Format Dokumen', link: '/overview/formatdokumen' },
+            { text: 'Import Mapping', link: '/overview/importmapping' },
           ]
         },
         {
           text: 'Integrasi',
           items: [
-            { text: 'API', link: '/overview/api' }, 
+            { text: 'API', link: '/overview/api' },
           ]
         }
       ],
@@ -80,23 +80,25 @@ export default defineConfig({
         {
           text: 'Lainnya',
           items: [
-            { text: 'Mengundang Vendor', link: '/klrkb/lainnya/mengundangvendor' }, 
-            { text: '2 Faktor Autentikasi', link: '/klrkb/2fa' }, 
+            { text: '2 Faktor Autentikasi', link: '/klrkb/2fa' },
+            { text: 'Lupa Password', link: '/klrkb/lainnya/forgotpassword' },
+            { text: 'Mengundang User', link: '/klrkb/lainnya/inviteuser' },
+            { text: 'Mengundang Vendor', link: '/klrkb/lainnya/mengundangvendor' }
           ]
         },
         {
           text: 'Dokumen',
           items: [
-            { text: 'Kepabeanan', link: '/klrkb/dokumenbc/' }, 
-            { text: 'Internal', link: '/klrkb/dokumeninternal/' }, 
+            { text: 'Kepabeanan', link: '/klrkb/dokumenbc/' },
+            { text: 'Internal', link: '/klrkb/dokumeninternal/' },
           ]
         },
         {
           text: 'Integrasi',
           items: [
-            { text: 'Sync Client', link: '/klrkb/syncclient/' }, 
-            { text: 'TPB CEISA', link: '/klrkb/tpbceisa/' }, 
-            { text: 'CDMS KB', link: '/klrkb/cdmskb/' }, 
+            { text: 'Sync Client', link: '/klrkb/syncclient/' },
+            { text: 'TPB CEISA', link: '/klrkb/tpbceisa/' },
+            { text: 'CDMS KB', link: '/klrkb/cdmskb/' },
           ]
         }
       ],
@@ -105,25 +107,25 @@ export default defineConfig({
         {
           text: 'Langkah Awal',
           items: [
-            { text: 'Mengundang Vendor', link: '/klriuip/mengundangvendoriuip/' }, 
-            { text: 'User Eksternal', link: '/klriuip/usereksternal/' }, 
-            { text: 'Purchase Order', link: '/klriuip/purchaseorder/' }, 
-            { text: 'Shipment', link: '/klriuip/shipment/' }, 
-            { text: 'Pembuatan Dokumen PIB', link: '/klriuip/pib/' }, 
-            { text: 'Pembuatan Dokumen PEB', link: '/klriuip/peb/' }, 
+            { text: 'Mengundang Vendor', link: '/klriuip/mengundangvendoriuip/' },
+            { text: 'User Eksternal', link: '/klriuip/usereksternal/' },
+            { text: 'Purchase Order', link: '/klriuip/purchaseorder/' },
+            { text: 'Shipment', link: '/klriuip/shipment/' },
+            { text: 'Pembuatan Dokumen PIB', link: '/klriuip/pib/' },
+            { text: 'Pembuatan Dokumen PEB', link: '/klriuip/peb/' },
           ]
         },
         {
           text: 'Dokumen',
           items: [
-            { text: 'Internal', link: '/klriuip/dokumeninternal/' }, 
-            { text: 'Eksternal', link: '/klriuip/dokumeneksternal/' }, 
+            { text: 'Internal', link: '/klriuip/dokumeninternal/' },
+            { text: 'Eksternal', link: '/klriuip/dokumeneksternal/' },
           ]
         },
         {
           text: 'Integrasi',
           items: [
-            { text: 'Sync Client', link: '/klriuip/syncclient/' }, 
+            { text: 'Sync Client', link: '/klriuip/syncclient/' },
           ]
         }
       ]

@@ -30,4 +30,4 @@ Apabila kondisi ini terjadi, Bapak Ibu bisa mengikuti panduan berikut ini [klik 
 Apabila kondisi ini terjadi, Bapak Ibu bisa mengikuti panduan berikut ini [klik disini](https://www.youtube.com/watch?v=X5EkJZLrrLc)
 
 ## Tidak Dapat Import Excel CEISA ke KLOP
-Apabila Bapak Ibu tidak bisa import excel CEISA ke dalam KLOP, kami tetap menyarankan untuk melakukan pembuatan dokumen BC 2.7 pada KLOP. Untuk panduannya, Bapak Ibu bisa mengikuti panduan berikut ini [klik disini]()
+Apabila Bapak Ibu tidak bisa import excel CEISA ke dalam KLOP, kami tetap menyarankan untuk melakukan pembuatan dokumen BC 2.7 pada KLOP. Untuk panduannya, Bapak Ibu bisa mengikuti panduan berikut ini [klik disini](https://www.youtube.com/watch?v=lutqfylUTRE)

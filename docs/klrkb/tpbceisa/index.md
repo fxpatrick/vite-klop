@@ -16,7 +16,7 @@ Ketika user sudah selesai melakukan pembuatan dokumen BC 2.7 Out, maka user dapa
 1. Pada dokumen BC 2.7 Out, klik tombol Submit
 2. Status yang sebelumnya Draft akan menjadi Wait Approved
 3. Klik tombol Kirim Data, pilih TPB
-4. Maka proses pengiriman data tersebut dapat dilihat pada Status Sinkroniasi ![](2022-07-26-18-01-04.png) menjadi
-5. Ketika Status Sinkronasi sudah berhasil diekspor, maka data tersebut sudah terkirim ke TPB module
+4. Maka proses pengiriman data tersebut dapat dilihat pada Status Sinkronisasi ![](2022-07-26-18-01-04.png) menjadi
+5. Ketika Status Sinkronisasi sudah berhasil diekspor, maka data tersebut sudah terkirim ke TPB module
 
 ## Update Sinkronisasi

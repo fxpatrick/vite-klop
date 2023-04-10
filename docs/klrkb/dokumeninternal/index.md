@@ -30,7 +30,7 @@
 4.	Mengisikan **Baris Mulai**, baris mulai diisikan dengan baris dari data PO tersebut ( Ex: baris 1 adalah baris untuk kolom dan data nya berada di baris setelah kolom tersebut, maka Baris Mulai bisa diisikan dengan 2)
 5.	Pada **Index No** diisikan dengan Index kolom dari template yang akan diunggah oleh user
 6.	Pada bagian **Key** dapat diceklist apabila kolom tersebut adalah unik, dan seluruh datanya tidak akan sama
-8.	Apabila user ingin mengunggah data dengan tujuan adalah melakukan update data, maka pada bagian Update Data dapat memilih **Ya**, namun apabila bertujuan untuk menambhakan data baru, maka user bisa memilih **Tidak**
+8.	Apabila user ingin mengunggah data dengan tujuan adalah melakukan update data, maka pada bagian Update Data dapat memilih **Ya**, namun apabila bertujuan untuk menambahkan data baru, maka user bisa memilih **Tidak**
 9.	Apabila kode barang belum ada di data master, maka secara otomatis akan dibuat pada **Master Barang**
 
 ### Upload KB CDMS

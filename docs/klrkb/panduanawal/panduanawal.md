@@ -17,7 +17,8 @@ Berikut ini video panduan untuk pendaftaran:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cgDFCgkECps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 :::info
-Apabila perusahaan Bapak Ibu adalah GB, maka ketika pendaftaran tetap memilih KB, namun apabila perusahaan Bapak Ibu memiliki 2 yaitu KB & GB, maka Bapak Ibu bisa mengikuti tutorial video berikut ini: [klik disini](https://www.youtube.com/watch?v=3ZEYmsYYtLc)
+Apabila perusahaan Bapak Ibu adalah GB, maka ketika pendaftaran tetap memilih KB, namun apabila perusahaan Bapak Ibu memiliki 2 yaitu KB & GB, maka Bapak Ibu bisa mengikuti tutorial video berikut ini: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ZEYmsYYtLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::
 
 
@@ -55,9 +56,9 @@ Pastikan Akun Default sudah sesuai dengan informasi about pada TPB CEISA, dan un
 ###
 ![](2023-03-16-12-19-56.png)
 ###
-Untuk Format Aju bisa kosongkan saja, karena system yang nanti akan membuatkan format ajunya, menggunakan informasi Id Modul & KPBC yang sudah diisikan pada Akun Default
+Untuk Format Aju bisa kosongkan saja, karena sistem yang nanti akan membuatkan format ajunya, menggunakan informasi Id Modul & KPBC yang sudah diisikan pada Akun Default
 ###
-Untuk Tujuan Pengiriman Bisa diisikan apabila Bapak Ibu ingin mengisikan default
+Untuk Tujuan Pengiriman bisa diisikan apabila Bapak Ibu ingin mengisikan default
 
 ## Pengecekan Customer PO
 Pastikan Bapak Ibu, melakukan pengecekan pada menu Customer PO, untuk mengetahui PO yang terbaru dan PO mana saja yang masih belum diselesaikan. Untuk lebih lengkapnya Bapak Ibu bisa melihat video berikut ini:
@@ -98,16 +99,16 @@ Apabila **Kode Barang Bapak Ibu** berbeda dengan **Customer**, maka segara hubun
 Apabila **Bapak Ibu** melakukan pembuatan **BC 2.7** dengan cara pengisian manual di **TPB CEISA** ataupun Template yang nantinya akan direstore ke **TPB CEISA**, maka **KLOP** ini akan sangat membantu pembuatan dokumen **BC 2.7**, untuk cara pembuatan Bapak Ibu bisa mengikuti step - step berikut ini:
 - Pengisian Header : [klik disini](https://scribehow.com/shared/Pembuatan_BC_27_Header__q90tF_DATIaTjplmrNWSYA)
 - Pengisian Detail : [klik disini](https://scribehow.com/shared/BC_27_Add_Detail_Document__VcADzKvjSjqnjA0vpc9OWw)
-- Pengisian Detail Melalui PO Customer, Menggunakan UI : [klik disini](https://www.youtube.com/watch?v=-Rpsc2_p4_M&feature=youtu.be)
-- Pengisian Detail Melalui PO Customer, Menggunakan Template : [klik disini](https://www.youtube.com/watch?v=FQzeFsHpfME&feature=youtu.be)
+- Pengisian Detail Melalui PO Customer, Menggunakan UI : <iframe width="560" height="315" src="https://www.youtube.com/embed/-Rpsc2_p4_M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- Pengisian Detail Melalui PO Customer, Menggunakan Template : <iframe width="560" height="315" src="https://www.youtube.com/embed/FQzeFsHpfME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 :::info
 Apabila perusahaan Bapak Ibu memiliki kondisi dimana Kode Barang sudah sama dengan PO, tetapi memiliki kondisi Deskripsi Barang berbeda, maka Bapak Ibu bisa edit deskripsi barangnya, dan diisikan dengan deskripsi barang customer + deskripsi barang internal Ex:
 - Deskripsi Barang Customer: Resin 17A1
 - Deskripsi Barang Internal: 17A1 Resin 17x1
 - Maka penulisan deskripsi barangnya bisa diisikan dengan 'Resin 17A1 / 17A1 Resin 17x1', untuk panduan lengkapnya mohon ikuti video **Pengisian Detail Melalui PO Customer**
 :::
-- Pengisian Bahan Baku Template : [klik disini](https://www.youtube.com/watch?v=kBYfNKbBgus&feature=youtu.be)
+- Pengisian Bahan Baku Template : <iframe width="560" height="315" src="https://www.youtube.com/embed/kBYfNKbBgus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- Pengisian Bahan Baku dengan jumlah lebih dari 1 Bahan Baku : [klik disini](https://www.youtube.com/watch?v=Q6qxWg2QwsY)
+- Pengisian Bahan Baku dengan jumlah lebih dari 1 Bahan Baku : <iframe width="560" height="315" src="https://www.youtube.com/embed/Q6qxWg2QwsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- Pembuatan Dokumen BC 2.7 Manual : [klik disini](https://www.youtube.com/watch?v=lutqfylUTRE)
+- Pembuatan Dokumen BC 2.7 Manual : <iframe width="560" height="315" src="https://www.youtube.com/embed/lutqfylUTRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

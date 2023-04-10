@@ -1,2 +1,3 @@
 # Lupa Password
-Bila Bapak Ibu lupa akan password akunnya, atau Bapak Ibu ingin mengganti password akunnya, Bapak Ibu bisa [Klik Disini](https://www.youtube.com/watch?v=ODJ_XIoeKXk)
+Bila Bapak Ibu lupa akan password akunnya atau ingin mengganti password akunnya, Bapak Ibu bisa mengikuti panduan berikut ini:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ODJ_XIoeKXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -12,7 +12,7 @@ Untuk mengundang vendor sendiri terbagi menjadi dua, yaitu **Vendor Luar Negeri 
 7.	Setelah semua data sudah lengkap, user dapat menekan tombol **Simpan**
 8.	Setelah itu tambahkan group dengan menekan tombol **Tambah** pada tab group dan masukkan **External Vendor**
 9.	Setelah itu email undangan untuk vendor tersebut akan dikirimkan ke email vendor yang sudah didaftarkan
-10.	Apabila user PT. Asia mengundang supplier PT. Vendor, lalu disaat itu juga ada user PT. Jaya mengundang supplier PT .Vendor, maka link undangan dari user PT. Asia akan kadarluwarsa dan terganti dengan link undangan user PT. Jaya, sehingga user PT. Asia perlu mengirim kembali undangan untuk  PT. Vendor
+10.	Apabila user PT. Asia mengundang supplier PT. Vendor, lalu disaat itu juga ada user PT. Jaya mengundang supplier PT .Vendor, maka link undangan dari user PT. Asia akan kadaluwarsa dan terganti dengan link undangan user PT. Jaya, sehingga user PT. Asia perlu mengirim kembali undangan untuk  PT. Vendor
 
 ## Vendor Kawasan Berikat
 1.	Klik menu **Master**
@@ -22,4 +22,4 @@ Untuk mengundang vendor sendiri terbagi menjadi dua, yaitu **Vendor Luar Negeri 
 5.	Klik **Hubungkan** pada informasi vendor
 6.	Apabila vendor sudah menjadi tenant Klearance One Portal, maka secara otomatis vendor tersebut akan terhubung, namun apabila vendor belum menjadi tenant Klearance One Portal, maka user harus mengundang user tersebut via email
 7.	Masukkan **Email** dan **Nama** Vendor untuk melakukan invite vendor tersebut untuk menjadi tenant klearance one portal
-8.	Apabila user PT. Asia mengundang supplier PT. Vendor, lalu disaat itu juga ada user PT. Jaya mengundang supplier PT .Vendor, maka link undangan dari user PT. Asia akan kadarluwarsa dan terganti dengan link undangan user PT. Jaya, sehingga user PT. Asia perlu mengirim kembali undangan untuk  PT. Vendor
+8.	Apabila user PT. Asia mengundang supplier PT. Vendor, lalu disaat itu juga ada user PT. Jaya mengundang supplier PT .Vendor, maka link undangan dari user PT. Asia akan kadaluwarsa dan terganti dengan link undangan user PT. Jaya, sehingga user PT. Asia perlu mengirim kembali undangan untuk  PT. Vendor

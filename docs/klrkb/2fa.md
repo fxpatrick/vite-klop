@@ -1,5 +1,5 @@
 # 2 Factor Authentication
-Seiring dengan berkembangnya perkembangan industri teknologi ada banyak sekali bentuk serangan digital yang dapat dilakukan oleh para peretas, salah satu - satunya adalah melakukan aksi *brute force* dengan cara menebak kombinasi user dan password agar dapat masuk ke dalam sistem yang ingin diretas.
+Seiring dengan berkembangnya perkembangan industri teknologi ada banyak sekali bentuk serangan digital yang dapat dilakukan oleh para peretas, salah satunya adalah melakukan aksi *brute force* dengan cara menebak kombinasi user dan password agar dapat masuk ke dalam sistem yang ingin diretas.
 
 Atas dasar hal tersebut dibuat suatu metode pengamanan tambahan yang dinamakan 2FA atau 2 faktor autentikasi. 2FA merupakan salah satu metode pengamanan sistem untuk memvalidasi bahwa orang yang ingin mengakses sistem merupakan orang yang tepat.
 Di mulai dari tahun 2022 sudah semakin banyak korporasi besar yang mewajibkan 2FA sebagai standar pengamanan yang harus diterapkan dalam setiap sistem perusahaan yang dapat diakses melalui internet publik.
@@ -16,11 +16,11 @@ Secara umum 2FA mewajibkan orang yang ingin masuk ke dalam sistem menggunakan du
 ::: info
 Username selalu diakhiri dengan @gmail.com
 :::
-3. Masuk ke dalam gauth menggunakan kombinasi username dan password yang sudah diberikan pihak perusahan pengguna fasilitas pada ponsel
+3. Masuk ke dalam gauth menggunakan kombinasi username dan password yang sudah diberikan pihak perusahaan pengguna fasilitas pada ponsel
 4. Buka gauth
 
 ## Pengaturan Awal CDMS
-1. Buka aplikasi CDMS melalui URL yang diberikan perusahaan pengguna fasiltias
+1. Buka aplikasi CDMS melalui URL yang diberikan perusahaan pengguna fasilitas
 2. Log in menggunakan username dan password yang telah diberikan untuk masuk ke dalam CDMS
 3. Dalam melakukan pengaturan pertama kali akan muncul tampilan di bawah ketika sudah berhasil log in dengan username dan password
    ![](2023-02-16-08-50-41.png)

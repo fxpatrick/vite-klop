@@ -9,16 +9,6 @@ export default defineConfig({
     pattern: 'https://github.com/fxpatrick/vite-klop/edit/main/docs/:path'
   },
   lastUpdated: true,
-  locales: {
-    '/': {
-      lang: 'id-ID',
-      selectText: 'Bahasa Indonesia'
-    },
-    '/en/': {
-      lang: 'en-US',
-      selectText: 'English'
-    }
-  },
   themeConfig: {
     logo: '/klearancelogo.svg',
     siteTitle: false,
@@ -29,10 +19,8 @@ export default defineConfig({
         { text: 'Bahasa Indonesia', link: '/' }
       ]
     },
-    algolia: {
-      appId: '5CBKKTFX9W',
-      apiKey: '648c192fb368017ea778d310f0bc2663',
-      indexName: 'klearance-wiki'
+    search: {
+      provider: 'local',
     },
     nav: nav(),
     sidebar: {
@@ -42,7 +30,7 @@ export default defineConfig({
           items: [
             { text: 'Klearance', link: '/overview/klearance' },
             { text: 'Arsitektur', link: '/overview/arsitektur' },
-            { text: 'Langkah Awal', link: '/overview/langkahawal' },
+            { text: 'Langkah Awal', link: '/overview/langkahawal' }
           ]
         },
         {

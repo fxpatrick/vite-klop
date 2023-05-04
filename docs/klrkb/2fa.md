@@ -6,27 +6,16 @@ Di mulai dari tahun 2022 sudah semakin banyak korporasi besar yang mewajibkan 2F
 
 Secara umum 2FA mewajibkan orang yang ingin masuk ke dalam sistem menggunakan dua metode validasi atau lebih. Dalam penerapan 2FA pada CDMS, CDMS mewajibkan dua metode validasi, yaitu:
 1. Kombinasi username dan password
-2. Kombinasi nomor dalam bentuk OTP (One Time Password) melalui aplikasi google authenticator
+2. Kombinasi nomor dalam bentuk OTP (One Time Password) yang dikirimkan ke alamat email
 
-## Pengaturan Awal Google Auth
-1. Download Google Authenticator (gauth) melalui link di bawah melalui ponsel <br>
-[Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=id&gl=US) <br>
-[Apple](https://apps.apple.com/us/app/google-authenticator/id388497605)
-2. Tanyakan username dan password yang digunakan untuk masuk ke dalam gauth kepada pihak perusahan pengguna fasilitas
-::: info
-Username selalu diakhiri dengan @gmail.com
-:::
-3. Masuk ke dalam gauth menggunakan kombinasi username dan password yang sudah diberikan pihak perusahaan pengguna fasilitas pada ponsel
-4. Buka gauth
 
-## Pengaturan Awal CDMS
+## Masuk ke CDMS
 1. Buka aplikasi CDMS melalui URL yang diberikan perusahaan pengguna fasilitas
 2. Log in menggunakan username dan password yang telah diberikan untuk masuk ke dalam CDMS
-3. Dalam melakukan pengaturan pertama kali akan muncul tampilan di bawah ketika sudah berhasil log in dengan username dan password
-   ![](2023-02-16-08-50-41.png)
-4. Buka gauth dan klik tanda tambah "+" pada pojok kanan bawah, kemudian pilih **Scan a QR code**
-5. Arahkan ke ponsel ke QR Code dalam langkah 3
-6. Masukan kode unik dalam bentuk 6 digit angka ke dalam CDMS IT Inventory
+3. Setelah berhasil akan muncul tampilan di bawah ini. Silahkan klik **Login Email**
+   ![](2023-05-04-11-43-32.png)
+4. Buka email menggunakan alamat email dan password yang sudah diberikan oleh perusahaan pengguna fasilitas kawasan berikat sebelumnya
+5. Masukan kode unik yang terdapat pada inbox email tersebut ke halaman yang ada pada langkah 3
+   ![](2023-05-04-12-50-27.png)
+6. Anda akan dapat masuk ke dalam setelah berhasil memasukan kode unik pada email dengan tepat
 
-## 2FA CDMS
-Setelah sukses melakukan pengaturan awal, maka setiap kali sukses masuk dengan username dan password, Anda diwajibkan membukan ponsel dan membuka aplikasi gauth untuk memasukan OTP dalam bentuk 6 digit angka

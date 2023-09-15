@@ -38,3 +38,8 @@ Apabila kondisi ini terjadi, Bapak Ibu bisa mengikuti panduan berikut ini:
 Apabila Bapak Ibu tidak bisa import excel CEISA ke dalam KLOP, kami tetap menyarankan untuk melakukan pembuatan dokumen BC 2.7 pada KLOP. Untuk panduannya, Bapak Ibu bisa mengikuti panduan berikut ini:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lutqfylUTRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Melakukan Perbaikan Dokumen Yang Sudah Diunggah ke Klearance
+Apabila Bapak Ibu ingin melakukan perbaikan dokumen yang sudah diupload ke KLOP, Bapak Ibu bisa mengikuti panduan berikut ini:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Rss2O0RUso?si=aOEL641lDyhpi4Vv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
